@@ -1,0 +1,15 @@
+date,batch,submission,public_score,notes
+2026-05-05,round1,s01_sohail_direct,0.95402,strong public notebook output
+2026-05-05,round1,s05_nina_sohail_rank_5050,0.95402,rank blend
+2026-05-05,round1,s06_public_strong_rank,0.95403,best of first recorded batch
+2026-05-06,round2,best_round2,0.95368,no improvement over round1 best
+2026-05-07,round3,u01_flexon_tb,0.95410,Flexon blender family
+2026-05-07,round3,u02_flexon_h01,0.95410,Flexon blender family
+2026-05-07,round3,u03_flexon_h02,0.95410,Flexon blender family
+2026-05-07,round3,u04_flexon_t95,0.95410,Flexon blender family
+2026-05-07,round3,u05_flexon_t85,0.95411,current best
+2026-05-07,round3,u06_flexon_hm1,0.95408,secondary candidate
+2026-05-07,round3,u07_flexon_hm2,0.95409,secondary candidate
+2026-05-07,round3,u08_nina_hb4,0.95409,secondary candidate
+2026-05-07,round3,u09_sohail_95407,0.95407,secondary candidate
+2026-05-07,round3,u10_mikhail_updated,0.95347,not a primary anchor

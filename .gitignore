@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+._*
+
+# Local environments and secrets
+.env
+.venv/
+venv/
+kaggle.json
+
+# Kaggle data and generated predictions
+playground-series-s6e5/*.csv
+playground-series-s6e5/*.zip
+oof_preds.csv
+submission*.csv
+sub*.csv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+
+# Experiment outputs
+outputs/
+public_outputs/
+submissions/
+submissions_round*/
+models/
+runs/
+wandb/
