@@ -40,3 +40,22 @@ Third batch focused on newer public notebook outputs, especially the Flexon 0.95
 | 10 | `u10_mikhail_updated.csv` | `0.95347` |
 
 Conclusion: Flexon `t85` is the current project anchor. Future experiments should explore small rank-blend perturbations around `t85`, `tb`, `h01`, and `h02`, using Nina hb4 and Sohail 0.95407 as secondary sources.
+
+## 2026-05-08
+
+Fourth batch started with no same-day submissions in the Kaggle submission list. Recent public Code updates included Sohail 0.95411, DeepLearnerrr 0.95411, Abhishek 0.95410, Flexon pair-search variants, and a refreshed Mikhail run.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `v01_sohail_95411_direct.csv` | `0.95411` |
+| 2 | `v02_deep_95411_direct.csv` | `0.95404` |
+| 3 | `v03_abhishek_95410_direct.csv` | `0.94810` |
+| 4 | `v04_mikhail_0508_direct.csv` | `0.95347` |
+| 5 | `v05_flex_t925_direct.csv` | `0.95410` |
+| 6 | `v06_flex_t975_direct.csv` | `0.95409` |
+| 7 | `v07_flex_a40_direct.csv` | `0.95409` |
+| 8 | `v08_flex_a60_direct.csv` | `0.95409` |
+| 9 | `v09_rank_t85_sohail_deep.csv` | `0.95412` |
+| 10 | `v10_rank_t85_tb_sohail_t925.csv` | `0.95411` |
+
+Conclusion: the only improvement came from a small rank blend of Flexon `t85`, Sohail 0.95411, and DeepLearnerrr. Abhishek and Mikhail direct outputs should be excluded from future blends unless a new public score is verified by direct submission. Flexon pair-search variants did not improve over `t85`.

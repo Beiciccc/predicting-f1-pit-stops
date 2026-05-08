@@ -13,3 +13,13 @@ date,batch,submission,public_score,notes
 2026-05-07,round3,u08_nina_hb4,0.95409,secondary candidate
 2026-05-07,round3,u09_sohail_95407,0.95407,secondary candidate
 2026-05-07,round3,u10_mikhail_updated,0.95347,not a primary anchor
+2026-05-08,round4,v01_sohail_95411_direct,0.95411,tied previous best
+2026-05-08,round4,v02_deep_95411_direct,0.95404,weaker than title score
+2026-05-08,round4,v03_abhishek_95410_direct,0.94810,exclude from blends
+2026-05-08,round4,v04_mikhail_0508_direct,0.95347,repeat direct-output failure
+2026-05-08,round4,v05_flex_t925_direct,0.95410,no improvement over t85
+2026-05-08,round4,v06_flex_t975_direct,0.95409,no improvement over t85
+2026-05-08,round4,v07_flex_a40_direct,0.95409,no improvement over t85
+2026-05-08,round4,v08_flex_a60_direct,0.95409,no improvement over t85
+2026-05-08,round4,v09_rank_t85_sohail_deep,0.95412,current best
+2026-05-08,round4,v10_rank_t85_tb_sohail_t925,0.95411,tied previous best
