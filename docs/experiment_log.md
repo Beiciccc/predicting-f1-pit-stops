@@ -59,3 +59,22 @@ Fourth batch started with no same-day submissions in the Kaggle submission list.
 | 10 | `v10_rank_t85_tb_sohail_t925.csv` | `0.95411` |
 
 Conclusion: the only improvement came from a small rank blend of Flexon `t85`, Sohail 0.95411, and DeepLearnerrr. Abhishek and Mikhail direct outputs should be excluded from future blends unless a new public score is verified by direct submission. Flexon pair-search variants did not improve over `t85`.
+
+## 2026-05-11
+
+Fifth batch started with no same-day submissions in the local timezone. The newest public Code and leaderboard scan showed a stronger 0.95419 blender family plus Masaya stacking artifacts. Kaggle records these submissions as 2026-05-10 23:xx UTC, which is 2026-05-11 00:xx BST.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `w01_flex_s19_direct.csv` | `0.95419` |
+| 2 | `w02_flex_d02_direct.csv` | `0.95419` |
+| 3 | `w03_flex_rtb02_direct.csv` | `0.95419` |
+| 4 | `w04_flex_cs02_direct.csv` | `0.95419` |
+| 5 | `w05_raunak_log_s11_direct.csv` | `0.95419` |
+| 6 | `w06_raunak_geo_s11_direct.csv` | `0.95419` |
+| 7 | `w07_nina_hb5_direct.csv` | `0.95419` |
+| 8 | `w08_abd_s18_direct.csv` | `0.95418` |
+| 9 | `w09_masaya_mlp32_direct.csv` | `0.95405` |
+| 10 | `w10_rank_s19_masaya_gkanamoto.csv` | `0.95419` |
+
+Conclusion: the `s19` family is the new public anchor at `0.95419`, but its micro-corrections mostly sit on the same plateau. Abdullah `s18` is slightly weaker at `0.95418`. Masaya's highest-CV stacking file did not transfer directly (`0.95405`), so it should not be used as a direct anchor.

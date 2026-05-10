@@ -16,15 +16,16 @@ Large Kaggle data files, generated submission CSVs, model artifacts, OOF predict
 
 ## Current Result
 
-Best public leaderboard score recorded so far: `0.95412`.
+Best public leaderboard score recorded so far: `0.95419`.
 
-Best submission file: `v09_rank_t85_sohail_deep.csv`.
+Best submission file: `w01_flex_s19_direct.csv`.
 
 ## Main Findings
 
 - Public notebook blends around the Flexon 0.95410 family are the strongest current baseline.
 - The `t85` variant improved the project best public score from `0.95403` to `0.95411`.
 - A small rank blend of `t85`, Sohail 0.95411, and DeepLearnerrr improved the best public score to `0.95412`.
+- The newer `s19` blender family lifted the best public score to `0.95419`.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Direct reuse of the updated Mikhail notebook output scored `0.95347` in local submission history and is not treated as a primary anchor.
 

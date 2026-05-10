@@ -23,3 +23,13 @@ date,batch,submission,public_score,notes
 2026-05-08,round4,v08_flex_a60_direct,0.95409,no improvement over t85
 2026-05-08,round4,v09_rank_t85_sohail_deep,0.95412,current best
 2026-05-08,round4,v10_rank_t85_tb_sohail_t925,0.95411,tied previous best
+2026-05-11,round5,w01_flex_s19_direct,0.95419,current best
+2026-05-11,round5,w02_flex_d02_direct,0.95419,tied s19 anchor
+2026-05-11,round5,w03_flex_rtb02_direct,0.95419,tied s19 anchor
+2026-05-11,round5,w04_flex_cs02_direct,0.95419,tied s19 anchor
+2026-05-11,round5,w05_raunak_log_s11_direct,0.95419,tied s19 anchor
+2026-05-11,round5,w06_raunak_geo_s11_direct,0.95419,tied s19 anchor
+2026-05-11,round5,w07_nina_hb5_direct,0.95419,tied s19 anchor
+2026-05-11,round5,w08_abd_s18_direct,0.95418,slightly below s19
+2026-05-11,round5,w09_masaya_mlp32_direct,0.95405,CV did not transfer to public LB
+2026-05-11,round5,w10_rank_s19_masaya_gkanamoto,0.95419,tied s19 anchor
