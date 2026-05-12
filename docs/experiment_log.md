@@ -78,3 +78,22 @@ Fifth batch started with no same-day submissions in the local timezone. The newe
 | 10 | `w10_rank_s19_masaya_gkanamoto.csv` | `0.95419` |
 
 Conclusion: the `s19` family is the new public anchor at `0.95419`, but its micro-corrections mostly sit on the same plateau. Abdullah `s18` is slightly weaker at `0.95418`. Masaya's highest-CV stacking file did not transfer directly (`0.95405`), so it should not be used as a direct anchor.
+
+## 2026-05-12
+
+Sixth batch started with no same-day submissions in the Kaggle submission list. The newest leaderboard scan showed several private competitors above `0.95419`, but no reproducible public output above the known plateau. Recent public Code suggested a refreshed Mikhail ensemble and several unsubmitted Flexon/Raunak micro-variants, so this batch tested conservative plateau variants first, then used the refreshed Mikhail output as a direct probe.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `x01_flex_ex02_direct.csv` | `0.95419` |
+| 2 | `x02_flex_cdn02_direct.csv` | `0.95419` |
+| 3 | `x03_flex_cup02_direct.csv` | `0.95419` |
+| 4 | `x04_flex_d01_direct.csv` | `0.95419` |
+| 5 | `x05_rank_s19_nina_geo_72_16_12.csv` | `0.95419` |
+| 6 | `x06_rank_s19_log_geo_nina_70_10_10_10.csv` | `0.95419` |
+| 7 | `x07_mikhail_0512_direct.csv` | `0.95347` |
+| 8 | `x08_flex_rs11_direct.csv` | `0.95419` |
+| 9 | `x09_flex_t02_direct.csv` | `0.95419` |
+| 10 | `x10_raunak_log_tb_direct.csv` | `0.95419` |
+
+Conclusion: the public plateau remains `0.95419`. Flexon pro variants and conservative rank blends around `s19`, Nina `hb5`, and Raunak `log_s11/geo_s11/log_tb` are stable but did not improve the score. The refreshed Mikhail direct output again scored `0.95347`, so the Mikhail family should remain excluded as a direct anchor unless a new public artifact is proven by submission.

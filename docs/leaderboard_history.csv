@@ -33,3 +33,13 @@ date,batch,submission,public_score,notes
 2026-05-11,round5,w08_abd_s18_direct,0.95418,slightly below s19
 2026-05-11,round5,w09_masaya_mlp32_direct,0.95405,CV did not transfer to public LB
 2026-05-11,round5,w10_rank_s19_masaya_gkanamoto,0.95419,tied s19 anchor
+2026-05-12,round6,x01_flex_ex02_direct,0.95419,tied s19 anchor
+2026-05-12,round6,x02_flex_cdn02_direct,0.95419,tied s19 anchor
+2026-05-12,round6,x03_flex_cup02_direct,0.95419,tied s19 anchor
+2026-05-12,round6,x04_flex_d01_direct,0.95419,tied s19 anchor
+2026-05-12,round6,x05_rank_s19_nina_geo,0.95419,conservative tied-family rank blend
+2026-05-12,round6,x06_rank_s19_log_geo_nina,0.95419,conservative tied-family rank blend
+2026-05-12,round6,x07_mikhail_0512_direct,0.95347,exclude as direct anchor
+2026-05-12,round6,x08_flex_rs11_direct,0.95419,tied s19 anchor
+2026-05-12,round6,x09_flex_t02_direct,0.95419,tied s19 anchor
+2026-05-12,round6,x10_raunak_log_tb_direct,0.95419,tied s19 anchor
