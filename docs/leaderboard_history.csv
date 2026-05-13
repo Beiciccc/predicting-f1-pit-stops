@@ -43,3 +43,13 @@ date,batch,submission,public_score,notes
 2026-05-12,round6,x08_flex_rs11_direct,0.95419,tied s19 anchor
 2026-05-12,round6,x09_flex_t02_direct,0.95419,tied s19 anchor
 2026-05-12,round6,x10_raunak_log_tb_direct,0.95419,tied s19 anchor
+2026-05-13,round7,y01_raunak_pow_tb_direct,0.95419,tied s19 anchor
+2026-05-13,round7,y02_raunak_log_s18_direct,0.95419,tied s19 anchor
+2026-05-13,round7,y03_arun_blend_direct,0.95416,below anchor despite high correlation
+2026-05-13,round7,y04_simarbir_direct,0.95259,exclude as direct anchor
+2026-05-13,round7,y05_degnonguidi12_direct,0.94302,exclude as direct anchor
+2026-05-13,round7,y06_anthony_res_direct,0.95419,tied s19 anchor
+2026-05-13,round7,y07_rank_s19_arun_80_20,0.95419,tiny Arun blend preserved anchor
+2026-05-13,round7,y11_rank_s19_joseph_97_03,0.95416,small Joseph blend hurt
+2026-05-13,round7,y12_rank_s19_nikita_97_03,0.95417,small Nikita blend hurt
+2026-05-13,round7,y13_rank_s19_sarvesh_99_01,0.95419,tiny Sarvesh blend preserved anchor

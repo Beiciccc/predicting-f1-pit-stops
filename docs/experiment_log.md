@@ -97,3 +97,22 @@ Sixth batch started with no same-day submissions in the Kaggle submission list. 
 | 10 | `x10_raunak_log_tb_direct.csv` | `0.95419` |
 
 Conclusion: the public plateau remains `0.95419`. Flexon pro variants and conservative rank blends around `s19`, Nina `hb5`, and Raunak `log_s11/geo_s11/log_tb` are stable but did not improve the score. The refreshed Mikhail direct output again scored `0.95347`, so the Mikhail family should remain excluded as a direct anchor unless a new public artifact is proven by submission.
+
+## 2026-05-13
+
+Seventh batch started with no same-day submissions in the Kaggle submission list. The public leaderboard still had stronger private/non-reproducible entries, but no fresh public artifact was verified above the `0.95419` plateau. The batch tested the remaining Raunak direct variants, recent public notebook outputs, and small rank blends around `s19`.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `y01_raunak_pow_tb_direct.csv` | `0.95419` |
+| 2 | `y02_raunak_log_s18_direct.csv` | `0.95419` |
+| 3 | `y03_arun_blend_direct.csv` | `0.95416` |
+| 4 | `y04_simarbir_direct.csv` | `0.95259` |
+| 5 | `y05_degnonguidi12_direct.csv` | `0.94302` |
+| 6 | `y06_anthony_res_direct.csv` | `0.95419` |
+| 7 | `y07_rank_s19_arun_80_20.csv` | `0.95419` |
+| 8 | `y11_rank_s19_joseph_97_03.csv` | `0.95416` |
+| 9 | `y12_rank_s19_nikita_97_03.csv` | `0.95417` |
+| 10 | `y13_rank_s19_sarvesh_99_01.csv` | `0.95419` |
+
+Conclusion: the project best remains `0.95419`. Raunak `pow_tb` and `log_s18` are safe plateau variants, and Anthony residual is effectively another `s19`-level anchor. Direct Simarbir and Degnonguidi12 should be excluded after large public-score drops. Arun, Joseph, and Nikita can also hurt even at small direct or rank-blend weights; only very tiny Sarvesh-style perturbations preserved the plateau.
