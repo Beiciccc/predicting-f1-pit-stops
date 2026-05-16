@@ -16,9 +16,9 @@ Large Kaggle data files, generated submission CSVs, model artifacts, OOF predict
 
 ## Current Result
 
-Best public leaderboard score recorded so far: `0.95419`.
+Best public leaderboard score recorded so far: `0.95437`.
 
-Best submission family: `s19`-anchored Flexon/Raunak/Anthony plateau variants.
+Best submission family: `s37`-anchored Raunak/Flexon 0.95437 variants.
 
 ## Main Findings
 
@@ -27,6 +27,7 @@ Best submission family: `s19`-anchored Flexon/Raunak/Anthony plateau variants.
 - A small rank blend of `t85`, Sohail 0.95411, and DeepLearnerrr improved the best public score to `0.95412`.
 - The newer `s19` blender family lifted the best public score to `0.95419`.
 - Additional Raunak and Anthony plateau variants preserved `0.95419`, but did not improve it.
+- The later `s37` blender family lifted the best public score to `0.95437`.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Direct reuse of the updated Mikhail notebook output scored `0.95347` in local submission history and is not treated as a primary anchor.
 

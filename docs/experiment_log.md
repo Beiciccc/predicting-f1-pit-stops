@@ -116,3 +116,22 @@ Seventh batch started with no same-day submissions in the Kaggle submission list
 | 10 | `y13_rank_s19_sarvesh_99_01.csv` | `0.95419` |
 
 Conclusion: the project best remains `0.95419`. Raunak `pow_tb` and `log_s18` are safe plateau variants, and Anthony residual is effectively another `s19`-level anchor. Direct Simarbir and Degnonguidi12 should be excluded after large public-score drops. Arun, Joseph, and Nikita can also hurt even at small direct or rank-blend weights; only very tiny Sarvesh-style perturbations preserved the plateau.
+
+## 2026-05-16
+
+Eighth batch started with no same-day submissions in the Kaggle submission list. The public leaderboard had moved above `0.9548`, and public Code exposed a new reproducible `0.95437` blender family. Safar, Flexon, Nawfeel, and Raunak `s37` outputs were effectively duplicates, so the batch focused on the Raunak `s37` family and its micro-variants.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `z01_raunak_s37_direct.csv` | `0.95437` |
+| 2 | `z02_raunak_ex35_direct.csv` | `0.95437` |
+| 3 | `z03_raunak_c35_direct.csv` | `0.95437` |
+| 4 | `z04_raunak_r35_direct.csv` | `0.95437` |
+| 5 | `z05_raunak_l35_direct.csv` | `0.95437` |
+| 6 | `z06_raunak_log35_direct.csv` | `0.95437` |
+| 7 | `z07_raunak_lc_direct.csv` | `0.95437` |
+| 8 | `z08_raunak_hb37_direct.csv` | `0.95436` |
+| 9 | `z09_raunak_r31_direct.csv` | `0.95437` |
+| 10 | `z10_rank_s37_hb37_sohail_97_02_01.csv` | `0.95437` |
+
+Conclusion: the project best improved from `0.95419` to `0.95437`. The `s37` anchor and most small/selective variants tie at the new plateau. The larger HB-style `hb37` perturbation is slightly weaker at `0.95436`, so future work should favor conservative `s37` micro-variants and look for genuinely new public anchors rather than larger row-wise blends.

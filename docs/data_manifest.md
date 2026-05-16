@@ -25,7 +25,7 @@ Generated artifacts are intentionally excluded from Git because they are large, 
 | `models/` | Trained model artifacts. |
 | `runs/`, `wandb/` | Experiment tracker outputs. |
 
-Current local public-output families include Flexon/Raunak plateau variants, Nina `hb5`, Masaya stacking artifacts, and refreshed public outputs checked on 2026-05-12 and 2026-05-13. These source files are kept local and are represented publicly only through score summaries and generation scripts.
+Current local public-output families include Flexon/Raunak plateau variants, Nina `hb5`, Masaya stacking artifacts, and refreshed public outputs checked through 2026-05-16. These source files are kept local and are represented publicly only through score summaries and generation scripts.
 
 ## Public Records
 
