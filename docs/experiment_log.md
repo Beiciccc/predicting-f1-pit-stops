@@ -135,3 +135,22 @@ Eighth batch started with no same-day submissions in the Kaggle submission list.
 | 10 | `z10_rank_s37_hb37_sohail_97_02_01.csv` | `0.95437` |
 
 Conclusion: the project best improved from `0.95419` to `0.95437`. The `s37` anchor and most small/selective variants tie at the new plateau. The larger HB-style `hb37` perturbation is slightly weaker at `0.95436`, so future work should favor conservative `s37` micro-variants and look for genuinely new public anchors rather than larger row-wise blends.
+
+## 2026-05-17
+
+Ninth batch started with no same-day submissions in the Kaggle submission list. Recent public Code and leaderboard checks exposed two useful new anchors: a Giovanny rank-style output around the `0.95446` level and a refreshed Mikhail output that was no longer identical to the older direct-output failures. The batch first tested the new public anchor, then remaining conservative `s37` micro-variants, then Mikhail/Giovanny rank blends.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `aa01_giovanny_95446_direct.csv` | `0.95446` |
+| 2 | `aa02_nina_hb10_direct.csv` | `0.95436` |
+| 3 | `aa03_raunak_log31_direct.csv` | `0.95437` |
+| 4 | `aa04_raunak_cc_direct.csv` | `0.95437` |
+| 5 | `aa05_raunak_l31_direct.csv` | `0.95437` |
+| 6 | `aa06_mikhail_latest_direct.csv` | `0.95438` |
+| 7 | `aa07_rank_mikhail_giovanny_s37_70_20_10.csv` | `0.95444` |
+| 8 | `aa08_rank_mikhail_giovanny_nina_85_10_05.csv` | `0.95441` |
+| 9 | `aa09_rank_giovanny_mikhail_s37_70_20_10.csv` | `0.95447` |
+| 10 | `aa10_rank_mikhail_karlton_giovanny_90_05_05.csv` | `0.95439` |
+
+Conclusion: the project best improved from `0.95437` to `0.95447`. Giovanny is the strongest reproducible public anchor so far. The refreshed Mikhail direct output scored only `0.95438`, but it helped as a secondary rank source when Giovanny remained dominant. Nina `hb10` and the remaining `s37` micro-variants did not improve the plateau. Future work should keep Giovanny as the primary anchor and use only small, score-verified rank perturbations from Mikhail or other fresh public outputs.

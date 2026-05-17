@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-17T04:35:31+00:00,1,aa01_giovanny_95446_direct.csv,r9_loop01_aa01_giovanny_95446_direct,SubmissionStatus.COMPLETE,0.95446,2026-05-17 04:34:59
+2026-05-17T04:36:07+00:00,2,aa02_nina_hb10_direct.csv,r9_loop02_aa02_nina_hb10_direct,SubmissionStatus.COMPLETE,0.95436,2026-05-17 04:35:35.360000
+2026-05-17T04:36:53+00:00,3,aa03_raunak_log31_direct.csv,r9_loop03_aa03_raunak_log31_direct,SubmissionStatus.COMPLETE,0.95437,2026-05-17 04:36:20.573000
+2026-05-17T04:37:30+00:00,4,aa04_raunak_cc_direct.csv,r9_loop04_aa04_raunak_cc_direct,SubmissionStatus.COMPLETE,0.95437,2026-05-17 04:36:57.617000
+2026-05-17T04:37:58+00:00,5,aa05_raunak_l31_direct.csv,r9_loop05_aa05_raunak_l31_direct,SubmissionStatus.COMPLETE,0.95437,2026-05-17 04:37:34.167000
+2026-05-17T04:39:59+00:00,6,aa06_mikhail_latest_direct.csv,r9_loop06_aa06_mikhail_latest_direct,SubmissionStatus.COMPLETE,0.95438,2026-05-17 04:39:26.980000
+2026-05-17T04:40:36+00:00,7,aa07_rank_mikhail_giovanny_s37_70_20_10.csv,r9_loop07_aa07_rank_mikhail_giovanny_s37,SubmissionStatus.COMPLETE,0.95444,2026-05-17 04:40:04.157000
+2026-05-17T04:41:15+00:00,8,aa08_rank_mikhail_giovanny_nina_85_10_05.csv,r9_loop08_aa08_rank_mikhail_giovanny_nina,SubmissionStatus.COMPLETE,0.95441,2026-05-17 04:40:42.687000
+2026-05-17T04:41:52+00:00,9,aa09_rank_giovanny_mikhail_s37_70_20_10.csv,r9_loop09_aa09_rank_giovanny_mikhail_s37,SubmissionStatus.COMPLETE,0.95447,2026-05-17 04:41:20.657000
+2026-05-17T04:42:29+00:00,10,aa10_rank_mikhail_karlton_giovanny_90_05_05.csv,r9_loop10_aa10_rank_mikhail_karlton_giovanny,SubmissionStatus.COMPLETE,0.95439,2026-05-17 04:41:57.397000

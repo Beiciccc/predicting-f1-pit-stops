@@ -63,3 +63,13 @@ date,batch,submission,public_score,notes
 2026-05-16,round8,z08_raunak_hb37_direct,0.95436,slightly below s37 anchor
 2026-05-16,round8,z09_raunak_r31_direct,0.95437,tied s37 anchor
 2026-05-16,round8,z10_rank_s37_hb37_sohail,0.95437,tiny diversity blend tied s37 anchor
+2026-05-17,round9,aa01_giovanny_95446_direct,0.95446,new public output anchor
+2026-05-17,round9,aa02_nina_hb10_direct,0.95436,weaker than s37 despite close correlation
+2026-05-17,round9,aa03_raunak_log31_direct,0.95437,tied s37 anchor
+2026-05-17,round9,aa04_raunak_cc_direct,0.95437,tied s37 anchor
+2026-05-17,round9,aa05_raunak_l31_direct,0.95437,tied s37 anchor
+2026-05-17,round9,aa06_mikhail_latest_direct,0.95438,new Mikhail output improved over older direct failures
+2026-05-17,round9,aa07_rank_mikhail_giovanny_s37,0.95444,rank blend below Giovanny direct
+2026-05-17,round9,aa08_rank_mikhail_giovanny_nina,0.95441,rank blend below Giovanny direct
+2026-05-17,round9,aa09_rank_giovanny_mikhail_s37,0.95447,new project best
+2026-05-17,round9,aa10_rank_mikhail_karlton_giovanny,0.95439,diversity blend below new best
