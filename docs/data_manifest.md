@@ -25,7 +25,7 @@ Generated artifacts are intentionally excluded from Git because they are large, 
 | `models/` | Trained model artifacts. |
 | `runs/`, `wandb/` | Experiment tracker outputs. |
 
-Current local public-output families include Flexon/Raunak plateau variants, Nina `hb5`/`hb10`, Masaya stacking artifacts, Giovanny 0.95446 output, refreshed Mikhail output, TabPFN output, and CatBoost/XGBoost blend outputs checked through 2026-05-17. These source files are kept local and are represented publicly only through score summaries and generation scripts.
+Current local public-output families include Flexon/Raunak plateau variants, Nina `hb5`/`hb10`, Masaya stacking artifacts, Giovanny 0.95446 output, refreshed Mikhail output, TabPFN output, CatBoost/XGBoost blend outputs, and the Raunak/Flexon/Safar/Abdullah `s49` family checked through 2026-05-18. These source files are kept local and are represented publicly only through score summaries and generation scripts.
 
 ## Public Records
 
@@ -36,3 +36,4 @@ Only compact summaries are tracked publicly:
 | `docs/experiment_log.md` | Human-readable experiment notes and conclusions. |
 | `docs/leaderboard_history.csv` | Compact public leaderboard score history. |
 | `docs/round9_live_results.csv` | Compact record of the 2026-05-17 submission batch. |
+| `docs/round10_live_results.csv` | Compact record of the 2026-05-18 submission batch. |

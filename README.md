@@ -16,9 +16,9 @@ Large Kaggle data files, generated submission CSVs, model artifacts, OOF predict
 
 ## Current Result
 
-Best public leaderboard score recorded so far: `0.95447`.
+Best public leaderboard score recorded so far: `0.95449`.
 
-Best submission family: Giovanny-centered rank blend with Mikhail and `s37` support.
+Best submission family: Raunak/Flexon/Safar/Abdullah `s49` 0.95449 public-output family.
 
 ## Main Findings
 
@@ -29,6 +29,7 @@ Best submission family: Giovanny-centered rank blend with Mikhail and `s37` supp
 - Additional Raunak and Anthony plateau variants preserved `0.95419`, but did not improve it.
 - The later `s37` blender family lifted the best public score to `0.95437`.
 - A Giovanny public output lifted the best direct score to `0.95446`, and a Giovanny/Mikhail/`s37` rank blend improved the project best to `0.95447`.
+- The newer `s49` public-output family lifted the project best to `0.95449`; nearby `lr46/r46/c37/cc` variants tied it, while larger `d37/hb49` and `s49` rank blends were weaker.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Older direct Mikhail outputs scored poorly, while the refreshed May 17 output reached `0.95438`; it is useful as a secondary blend source rather than a primary anchor.
 

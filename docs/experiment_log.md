@@ -154,3 +154,22 @@ Ninth batch started with no same-day submissions in the Kaggle submission list. 
 | 10 | `aa10_rank_mikhail_karlton_giovanny_90_05_05.csv` | `0.95439` |
 
 Conclusion: the project best improved from `0.95437` to `0.95447`. Giovanny is the strongest reproducible public anchor so far. The refreshed Mikhail direct output scored only `0.95438`, but it helped as a secondary rank source when Giovanny remained dominant. Nina `hb10` and the remaining `s37` micro-variants did not improve the plateau. Future work should keep Giovanny as the primary anchor and use only small, score-verified rank perturbations from Mikhail or other fresh public outputs.
+
+## 2026-05-18
+
+Tenth batch started with no same-day submissions in the Kaggle submission list. Recent public Code exposed a new `0.95449` family from Raunak/Flexon/Safar/Abdullah-style outputs. The downloaded `s49` files were exact numerical duplicates across several public notebooks, while Raunak also exposed nearby `lr46/r46/d37/hb49/c37/cc` variants.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ab01_raunak_s49_direct.csv` | `0.95449` |
+| 2 | `ab02_raunak_lr46_02_direct.csv` | `0.95449` |
+| 3 | `ab03_raunak_r46_02_direct.csv` | `0.95449` |
+| 4 | `ab04_raunak_r46_05_direct.csv` | `0.95449` |
+| 5 | `ab05_raunak_d37_10_direct.csv` | `0.95448` |
+| 6 | `ab06_raunak_hb49_direct.csv` | `0.95446` |
+| 7 | `ab07_raunak_c37_direct.csv` | `0.95449` |
+| 8 | `ab08_raunak_cc_direct.csv` | `0.95449` |
+| 9 | `ab09_rank_s49_giovanny_mikhail_80_15_05.csv` | `0.95448` |
+| 10 | `ab10_rank_s49_giovanny_mikhail_70_20_10.csv` | `0.95448` |
+
+Conclusion: the project best improved from `0.95447` to `0.95449`. The `s49/lr46/r46/c37/cc` family ties at the new plateau. The larger `d37_10` and `hb49` perturbations are weaker, and adding Giovanny/Mikhail rank support also dropped to `0.95448`. Future public-score work should treat `s49` as the primary anchor, avoid larger hblend/d37 perturbations, and look for genuinely new public outputs above `0.95449`.

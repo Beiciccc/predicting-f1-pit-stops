@@ -73,3 +73,13 @@ date,batch,submission,public_score,notes
 2026-05-17,round9,aa08_rank_mikhail_giovanny_nina,0.95441,rank blend below Giovanny direct
 2026-05-17,round9,aa09_rank_giovanny_mikhail_s37,0.95447,new project best
 2026-05-17,round9,aa10_rank_mikhail_karlton_giovanny,0.95439,diversity blend below new best
+2026-05-18,round10,ab01_raunak_s49_direct,0.95449,new s49 public-output anchor
+2026-05-18,round10,ab02_raunak_lr46_02_direct,0.95449,tied s49 anchor
+2026-05-18,round10,ab03_raunak_r46_02_direct,0.95449,tied s49 anchor
+2026-05-18,round10,ab04_raunak_r46_05_direct,0.95449,tied s49 anchor
+2026-05-18,round10,ab05_raunak_d37_10_direct,0.95448,larger d37 perturbation below anchor
+2026-05-18,round10,ab06_raunak_hb49_direct,0.95446,hblend perturbation below anchor
+2026-05-18,round10,ab07_raunak_c37_direct,0.95449,tied s49 anchor
+2026-05-18,round10,ab08_raunak_cc_direct,0.95449,tied s49 anchor
+2026-05-18,round10,ab09_rank_s49_giovanny_mikhail,0.95448,rank blend below s49 direct
+2026-05-18,round10,ab10_rank_s49_giovanny_mikhail,0.95448,rank blend below s49 direct
