@@ -16,9 +16,9 @@ Large Kaggle data files, generated submission CSVs, model artifacts, OOF predict
 
 ## Current Result
 
-Best public leaderboard score recorded so far: `0.95449`.
+Best public leaderboard score recorded so far: `0.95450`.
 
-Best submission family: Raunak/Flexon/Safar/Abdullah `s49` 0.95449 public-output family.
+Best submission family: Raunak `max46_05` and closely related 0.95450 public-output variants.
 
 ## Main Findings
 
@@ -30,6 +30,7 @@ Best submission family: Raunak/Flexon/Safar/Abdullah `s49` 0.95449 public-output
 - The later `s37` blender family lifted the best public score to `0.95437`.
 - A Giovanny public output lifted the best direct score to `0.95446`, and a Giovanny/Mikhail/`s37` rank blend improved the project best to `0.95447`.
 - The newer `s49` public-output family lifted the project best to `0.95449`; nearby `lr46/r46/c37/cc` variants tied it, while larger `d37/hb49` and `s49` rank blends were weaker.
+- The May 19 `max46_05` public-output variant lifted the project best to `0.95450`; DataRegressor's one-line output and a very small `max46_05`/DataRegressor rank blend also reached `0.95450`.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Older direct Mikhail outputs scored poorly, while the refreshed May 17 output reached `0.95438`; it is useful as a secondary blend source rather than a primary anchor.
 

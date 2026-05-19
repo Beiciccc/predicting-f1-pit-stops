@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-19T02:53:32+00:00,1,ac01_raunak_max46_05_direct.csv,r11_loop01_ac01_raunak_max46_05_direct,SubmissionStatus.COMPLETE,0.95450,2026-05-19 02:53:00.417000
+2026-05-19T02:54:09+00:00,2,ac02_dataregressor_knock_direct.csv,r11_loop02_ac02_dataregressor_knock_direct,SubmissionStatus.COMPLETE,0.95450,2026-05-19 02:53:36.350000
+2026-05-19T02:54:44+00:00,3,ac03_nina_hb11_direct.csv,r11_loop03_ac03_nina_hb11_direct,SubmissionStatus.COMPLETE,0.95448,2026-05-19 02:54:12.303000
+2026-05-19T02:55:21+00:00,4,ac04_raunak_max31_05_direct.csv,r11_loop04_ac04_raunak_max31_05_direct,SubmissionStatus.COMPLETE,0.95449,2026-05-19 02:54:49.280000
+2026-05-19T02:55:58+00:00,5,ac05_raunak_ex37_direct.csv,r11_loop05_ac05_raunak_ex37_direct,SubmissionStatus.COMPLETE,0.95449,2026-05-19 02:55:26
+2026-05-19T02:56:35+00:00,6,ac06_raunak_r37_05_direct.csv,r11_loop06_ac06_raunak_r37_05_direct,SubmissionStatus.COMPLETE,0.95449,2026-05-19 02:56:02.760000
+2026-05-19T02:57:12+00:00,7,ac07_raunak_d31_05_direct.csv,r11_loop07_ac07_raunak_d31_05_direct,SubmissionStatus.COMPLETE,0.95448,2026-05-19 02:56:39.080000
+2026-05-19T02:57:50+00:00,8,ac08_raunak_d37_05_direct.csv,r11_loop08_ac08_raunak_d37_05_direct,SubmissionStatus.COMPLETE,0.95449,2026-05-19 02:57:17.517000
+2026-05-19T02:58:24+00:00,9,ac09_raunak_min31_05_direct.csv,r11_loop09_ac09_raunak_min31_05_direct,SubmissionStatus.COMPLETE,0.95447,2026-05-19 02:57:54.060000
+2026-05-19T02:59:39+00:00,10,ac10_rank_max46_dataregressor_98_02.csv,r11_loop10_ac10_rank_max46_dataregressor,SubmissionStatus.COMPLETE,0.95450,2026-05-19 02:59:07.763000

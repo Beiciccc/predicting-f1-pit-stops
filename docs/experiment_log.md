@@ -173,3 +173,22 @@ Tenth batch started with no same-day submissions in the Kaggle submission list. 
 | 10 | `ab10_rank_s49_giovanny_mikhail_70_20_10.csv` | `0.95448` |
 
 Conclusion: the project best improved from `0.95447` to `0.95449`. The `s49/lr46/r46/c37/cc` family ties at the new plateau. The larger `d37_10` and `hb49` perturbations are weaker, and adding Giovanny/Mikhail rank support also dropped to `0.95448`. Future public-score work should treat `s49` as the primary anchor, avoid larger hblend/d37 perturbations, and look for genuinely new public outputs above `0.95449`.
+
+## 2026-05-19
+
+Eleventh batch started with no same-day submissions in the Kaggle submission list. The newest public Code exposed a Raunak `0.95450` blender, Nina `hb11`, a refreshed Mikhail notebook output, and a DataRegressor one-line output. The refreshed Mikhail output was numerically unchanged from the prior public file, while Raunak `submission.csv` matched the new `max46_05` candidate.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ac01_raunak_max46_05_direct.csv` | `0.95450` |
+| 2 | `ac02_dataregressor_knock_direct.csv` | `0.95450` |
+| 3 | `ac03_nina_hb11_direct.csv` | `0.95448` |
+| 4 | `ac04_raunak_max31_05_direct.csv` | `0.95449` |
+| 5 | `ac05_raunak_ex37_direct.csv` | `0.95449` |
+| 6 | `ac06_raunak_r37_05_direct.csv` | `0.95449` |
+| 7 | `ac07_raunak_d31_05_direct.csv` | `0.95448` |
+| 8 | `ac08_raunak_d37_05_direct.csv` | `0.95449` |
+| 9 | `ac09_raunak_min31_05_direct.csv` | `0.95447` |
+| 10 | `ac10_rank_max46_dataregressor_98_02.csv` | `0.95450` |
+
+Conclusion: the project best improved from `0.95449` to `0.95450`. The strongest candidates are Raunak `max46_05`, DataRegressor direct, and a very small `max46_05`/DataRegressor rank blend. Nina `hb11` did not transfer to `0.95450`, and the `max31/min31/d31` style perturbations were weaker. Future work should use `max46_05` as the primary public anchor and search for genuinely new public outputs above `0.95450`, not larger perturbations of the same family.

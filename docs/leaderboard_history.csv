@@ -83,3 +83,13 @@ date,batch,submission,public_score,notes
 2026-05-18,round10,ab08_raunak_cc_direct,0.95449,tied s49 anchor
 2026-05-18,round10,ab09_rank_s49_giovanny_mikhail,0.95448,rank blend below s49 direct
 2026-05-18,round10,ab10_rank_s49_giovanny_mikhail,0.95448,rank blend below s49 direct
+2026-05-19,round11,ac01_raunak_max46_05_direct,0.95450,new max46_05 public-output anchor
+2026-05-19,round11,ac02_dataregressor_knock_direct,0.95450,tied new best
+2026-05-19,round11,ac03_nina_hb11_direct,0.95448,did not transfer to public 0.95450
+2026-05-19,round11,ac04_raunak_max31_05_direct,0.95449,below max46_05
+2026-05-19,round11,ac05_raunak_ex37_direct,0.95449,below max46_05
+2026-05-19,round11,ac06_raunak_r37_05_direct,0.95449,below max46_05
+2026-05-19,round11,ac07_raunak_d31_05_direct,0.95448,probability perturbation below anchor
+2026-05-19,round11,ac08_raunak_d37_05_direct,0.95449,below max46_05
+2026-05-19,round11,ac09_raunak_min31_05_direct,0.95447,weaker asymmetric perturbation
+2026-05-19,round11,ac10_rank_max46_dataregressor,0.95450,tiny rank blend tied new best
