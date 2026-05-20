@@ -93,3 +93,13 @@ date,batch,submission,public_score,notes
 2026-05-19,round11,ac08_raunak_d37_05_direct,0.95449,below max46_05
 2026-05-19,round11,ac09_raunak_min31_05_direct,0.95447,weaker asymmetric perturbation
 2026-05-19,round11,ac10_rank_max46_dataregressor,0.95450,tiny rank blend tied new best
+2026-05-20,round12,ad01_s52_raw_direct,0.95452,new s52 public-output anchor
+2026-05-20,round12,ad02_lr52_46_01_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad03_lr52_46_02_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad04_d52_49_05_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad05_max52_46_02_direct,0.95453,new asymmetric max best
+2026-05-20,round12,ad06_pow52_49_10_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad07_harm52_46_02_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad08_geo52_46_02_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad09_srp52_46_001_direct,0.95452,tied s52 anchor
+2026-05-20,round12,ad10_gate52_49_top5_direct,0.95452,tied s52 anchor

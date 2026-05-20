@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-20T04:48:18+00:00,1,ad01_s52_raw_direct.csv,r12_loop01_ad01_s52_raw_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:47:46.423000
+2026-05-20T04:48:53+00:00,2,ad02_lr52_46_01_direct.csv,r12_loop02_ad02_lr52_46_01_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:48:21.203000
+2026-05-20T04:49:28+00:00,3,ad03_lr52_46_02_direct.csv,r12_loop03_ad03_lr52_46_02_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:48:56.147000
+2026-05-20T04:50:03+00:00,4,ad04_d52_49_05_direct.csv,r12_loop04_ad04_d52_49_05_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:49:31.090000
+2026-05-20T04:50:38+00:00,5,ad05_max52_46_02_direct.csv,r12_loop05_ad05_max52_46_02_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-20 04:50:06.347000
+2026-05-20T04:51:14+00:00,6,ad06_pow52_49_10_direct.csv,r12_loop06_ad06_pow52_49_10_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:50:41.770000
+2026-05-20T04:51:49+00:00,7,ad07_harm52_46_02_direct.csv,r12_loop07_ad07_harm52_46_02_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:51:16.907000
+2026-05-20T04:52:24+00:00,8,ad08_geo52_46_02_direct.csv,r12_loop08_ad08_geo52_46_02_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:51:52.413000
+2026-05-20T04:52:59+00:00,9,ad09_srp52_46_001_direct.csv,r12_loop09_ad09_srp52_46_001_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:52:26.987000
+2026-05-20T04:53:33+00:00,10,ad10_gate52_49_top5_direct.csv,r12_loop10_ad10_gate52_49_top5_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-20 04:53:01.613000

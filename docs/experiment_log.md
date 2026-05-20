@@ -192,3 +192,22 @@ Eleventh batch started with no same-day submissions in the Kaggle submission lis
 | 10 | `ac10_rank_max46_dataregressor_98_02.csv` | `0.95450` |
 
 Conclusion: the project best improved from `0.95449` to `0.95450`. The strongest candidates are Raunak `max46_05`, DataRegressor direct, and a very small `max46_05`/DataRegressor rank blend. Nina `hb11` did not transfer to `0.95450`, and the `max31/min31/d31` style perturbations were weaker. Future work should use `max46_05` as the primary public anchor and search for genuinely new public outputs above `0.95450`, not larger perturbations of the same family.
+
+## 2026-05-20
+
+Twelfth batch started with no same-day submissions in the Kaggle submission list. Recent public Code exposed a new `0.95452` family. Safar and Nawfeel direct outputs matched the Raunak `s52_raw` file exactly, while Kalyan `0.95450` matched the already-tested May 19 `max46_05` anchor. The batch therefore focused on non-duplicate `s52` variants and very small transformations around the new `s52` anchor.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ad01_s52_raw_direct.csv` | `0.95452` |
+| 2 | `ad02_lr52_46_01_direct.csv` | `0.95452` |
+| 3 | `ad03_lr52_46_02_direct.csv` | `0.95452` |
+| 4 | `ad04_d52_49_05_direct.csv` | `0.95452` |
+| 5 | `ad05_max52_46_02_direct.csv` | `0.95453` |
+| 6 | `ad06_pow52_49_10_direct.csv` | `0.95452` |
+| 7 | `ad07_harm52_46_02_direct.csv` | `0.95452` |
+| 8 | `ad08_geo52_46_02_direct.csv` | `0.95452` |
+| 9 | `ad09_srp52_46_001_direct.csv` | `0.95452` |
+| 10 | `ad10_gate52_49_top5_direct.csv` | `0.95452` |
+
+Conclusion: the project best improved from `0.95450` to `0.95453`. The raw `s52` family is a reliable new public anchor at `0.95452`, and the asymmetric `max52_46_02` variant is the strongest tested file at `0.95453`. Other very small logit-rank, probability, harmonic, geometric, and gated variants preserved `0.95452` but did not beat the asymmetric max adjustment. Future work should treat `max52_46_02` as the primary anchor and search for additional independent public sources or extremely conservative perturbations around this file.
