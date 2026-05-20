@@ -1,0 +1,21 @@
+{
+  "id": "beicicc/f1-pit-stops-max52-46-02-0-95453",
+  "title": "F1 Pit Stops Max52 46 02 0.95453",
+  "code_file": "f1_pit_stops_max52_46_02.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "flexonafft/f1-submissions",
+    "nawfeelrahman1124444/pss6ep5448"
+  ],
+  "competition_sources": [
+    "playground-series-s6e5"
+  ],
+  "kernel_sources": [],
+  "model_sources": [],
+  "id_no": 119917779
+}

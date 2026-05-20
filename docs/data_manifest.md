@@ -20,6 +20,7 @@ Generated artifacts are intentionally excluded from Git because they are large, 
 |---|---|
 | `submissions/` | Generated submission CSVs. |
 | `submissions_round*/` | Batch-specific generated submission CSVs. |
+| `kaggle_code/` | Public Kaggle Code release sources for selected best-scoring submissions. |
 | `public_outputs/` | Downloaded public notebook outputs used for blending experiments. |
 | `outputs/` | Local model and notebook outputs. |
 | `models/` | Trained model artifacts. |

@@ -10,6 +10,7 @@ Competition page: https://www.kaggle.com/competitions/playground-series-s6e5
 - `docs/data_manifest.md` summarizes the competition files and generated artifacts used locally.
 - `docs/leaderboard_history.csv` keeps a compact public leaderboard score table.
 - `scripts/` contains reproducible utilities for status checks, blending, validation, and submission preparation.
+- `kaggle_code/` contains public Kaggle Code release sources for selected best-scoring submissions.
 - `*.ipynb` notebooks contain exploratory analysis and modeling experiments with outputs stripped for a lightweight public record.
 
 Large Kaggle data files, generated submission CSVs, model artifacts, OOF predictions, and local credentials are excluded from the repository.
@@ -19,6 +20,8 @@ Large Kaggle data files, generated submission CSVs, model artifacts, OOF predict
 Best public leaderboard score recorded so far: `0.95453`.
 
 Best submission family: Raunak `s52`/`max52_46_02` and closely related 0.95452+ public-output variants.
+
+Public Kaggle Code for the current best submission: https://www.kaggle.com/code/beicicc/f1-pit-stops-max52-46-02-0-95453
 
 ## Main Findings
 

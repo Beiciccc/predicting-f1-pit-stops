@@ -211,3 +211,5 @@ Twelfth batch started with no same-day submissions in the Kaggle submission list
 | 10 | `ad10_gate52_49_top5_direct.csv` | `0.95452` |
 
 Conclusion: the project best improved from `0.95450` to `0.95453`. The raw `s52` family is a reliable new public anchor at `0.95452`, and the asymmetric `max52_46_02` variant is the strongest tested file at `0.95453`. Other very small logit-rank, probability, harmonic, geometric, and gated variants preserved `0.95452` but did not beat the asymmetric max adjustment. Future work should treat `max52_46_02` as the primary anchor and search for additional independent public sources or extremely conservative perturbations around this file.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-max52-46-02-0-95453
