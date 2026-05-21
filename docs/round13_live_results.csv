@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-21T03:17:25+00:00,1,ae01_tail53_top_05_direct.csv,r13_loop01_ae01_tail53_top_05_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:16:53.093000
+2026-05-21T03:18:00+00:00,2,ae02_s53_raw_direct.csv,r13_loop02_ae02_s53_raw_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:17:28.137000
+2026-05-21T03:18:36+00:00,3,ae03_dataregressor_20260521_direct.csv,r13_loop03_ae03_dataregressor_20260521,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:18:04.557000
+2026-05-21T03:19:11+00:00,4,ae04_tail53_dual_03_direct.csv,r13_loop04_ae04_tail53_dual_03_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:18:39.400000
+2026-05-21T03:19:47+00:00,5,ae05_tail53_bottom_05_direct.csv,r13_loop05_ae05_tail53_bottom_05_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:19:14.963000
+2026-05-21T03:20:22+00:00,6,ae06_prob_max52_s53_99_01.csv,r13_loop06_ae06_prob_max52_s53,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:19:49.940000
+2026-05-21T03:20:58+00:00,7,ae07_prob_max52_datareg_99_01.csv,r13_loop07_ae07_prob_max52_datareg,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:20:25.743000
+2026-05-21T03:21:32+00:00,8,ae08_rank_max52_s53_99_01.csv,r13_loop08_ae08_rank_max52_s53,SubmissionStatus.COMPLETE,0.95453,2026-05-21 03:21:00.597000
+2026-05-21T03:22:07+00:00,9,ae09_srp52_46_005_direct.csv,r13_loop09_ae09_srp52_46_005_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-21 03:21:35.413000
+2026-05-21T03:22:43+00:00,10,ae10_iso52_46_02_direct.csv,r13_loop10_ae10_iso52_46_02_direct,SubmissionStatus.COMPLETE,0.95452,2026-05-21 03:22:10.853000

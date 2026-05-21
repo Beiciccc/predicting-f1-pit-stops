@@ -213,3 +213,24 @@ Twelfth batch started with no same-day submissions in the Kaggle submission list
 Conclusion: the project best improved from `0.95450` to `0.95453`. The raw `s52` family is a reliable new public anchor at `0.95452`, and the asymmetric `max52_46_02` variant is the strongest tested file at `0.95453`. Other very small logit-rank, probability, harmonic, geometric, and gated variants preserved `0.95452` but did not beat the asymmetric max adjustment. Future work should treat `max52_46_02` as the primary anchor and search for additional independent public sources or extremely conservative perturbations around this file.
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-max52-46-02-0-95453
+
+## 2026-05-21
+
+Thirteenth batch started with no same-day submissions in the Kaggle submission list. Recent public Code exposed a new `0.95453` tail-injection family. The batch first tested the new `s53` direct and tail variants, then extremely small blends around the prior `max52_46_02` best, and finally two unsubmitted advanced `s52` micro-variants.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ae01_tail53_top_05_direct.csv` | `0.95453` |
+| 2 | `ae02_s53_raw_direct.csv` | `0.95453` |
+| 3 | `ae03_dataregressor_20260521_direct.csv` | `0.95453` |
+| 4 | `ae04_tail53_dual_03_direct.csv` | `0.95453` |
+| 5 | `ae05_tail53_bottom_05_direct.csv` | `0.95453` |
+| 6 | `ae06_prob_max52_s53_99_01.csv` | `0.95453` |
+| 7 | `ae07_prob_max52_datareg_99_01.csv` | `0.95453` |
+| 8 | `ae08_rank_max52_s53_99_01.csv` | `0.95453` |
+| 9 | `ae09_srp52_46_005_direct.csv` | `0.95452` |
+| 10 | `ae10_iso52_46_02_direct.csv` | `0.95452` |
+
+Conclusion: the project best remains `0.95453`. The new `s53` family, DataRegressor refresh, tail injections, and tiny `max52_46_02` blends all tie the current best without lifting it. The older `srp52_46_005` and `iso52_46_02` variants are weaker at `0.95452`. Future work should look for a genuinely new independent public source above `0.95453` or much more targeted tail/rank corrections, because the present plateau is very tight.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-tail53-top-05-0-95453

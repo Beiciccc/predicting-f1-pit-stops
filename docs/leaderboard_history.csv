@@ -103,3 +103,13 @@ date,batch,submission,public_score,notes
 2026-05-20,round12,ad08_geo52_46_02_direct,0.95452,tied s52 anchor
 2026-05-20,round12,ad09_srp52_46_001_direct,0.95452,tied s52 anchor
 2026-05-20,round12,ad10_gate52_49_top5_direct,0.95452,tied s52 anchor
+2026-05-21,round13,ae01_tail53_top_05_direct,0.95453,tied current best with tail53 top injection
+2026-05-21,round13,ae02_s53_raw_direct,0.95453,tied current best with s53 raw
+2026-05-21,round13,ae03_dataregressor_20260521_direct,0.95453,tied current best with refreshed public output
+2026-05-21,round13,ae04_tail53_dual_03_direct,0.95453,tied current best with dual tail injection
+2026-05-21,round13,ae05_tail53_bottom_05_direct,0.95453,tied current best with bottom tail injection
+2026-05-21,round13,ae06_prob_max52_s53_99_01,0.95453,tiny probability blend tied current best
+2026-05-21,round13,ae07_prob_max52_datareg_99_01,0.95453,tiny probability blend tied current best
+2026-05-21,round13,ae08_rank_max52_s53_99_01,0.95453,tiny rank remap tied current best
+2026-05-21,round13,ae09_srp52_46_005_direct,0.95452,older SRP variant below current best
+2026-05-21,round13,ae10_iso52_46_02_direct,0.95452,older isotonic variant below current best
