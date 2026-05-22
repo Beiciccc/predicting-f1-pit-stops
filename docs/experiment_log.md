@@ -234,3 +234,24 @@ Thirteenth batch started with no same-day submissions in the Kaggle submission l
 Conclusion: the project best remains `0.95453`. The new `s53` family, DataRegressor refresh, tail injections, and tiny `max52_46_02` blends all tie the current best without lifting it. The older `srp52_46_005` and `iso52_46_02` variants are weaker at `0.95452`. Future work should look for a genuinely new independent public source above `0.95453` or much more targeted tail/rank corrections, because the present plateau is very tight.
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-tail53-top-05-0-95453
+
+## 2026-05-22
+
+Fourteenth batch started with no same-day submissions in the Kaggle submission list. Recent public Code did not expose a clearly stronger direct source; the only useful new signal was the May 22 DataRegressor one-line output. The batch therefore tested that direct output and conservative probability/rank perturbations around the existing `max52_46_02`, `s53`, and `tail53` anchors.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `af01_dataregressor_20260522_direct.csv` | `0.95453` |
+| 2 | `af02_prob_max52_datareg22_995_005.csv` | `0.95453` |
+| 3 | `af03_prob_max52_datareg22_99_01.csv` | `0.95453` |
+| 4 | `af04_prob_s53_datareg22_995_005.csv` | `0.95453` |
+| 5 | `af05_prob_tail53_datareg22_995_005.csv` | `0.95453` |
+| 6 | `af06_rank_max52_datareg22_995_005.csv` | `0.95453` |
+| 7 | `af07_rank_max52_datareg22_99_01.csv` | `0.95453` |
+| 8 | `af08_rank_s53_datareg22_995_005.csv` | `0.95453` |
+| 9 | `af09_prob_max52_s53_50_50.csv` | `0.95453` |
+| 10 | `af10_prob_max52_tail53_50_50.csv` | `0.95453` |
+
+Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct output, tiny DataRegressor perturbations, rank remaps, and midpoint blends between existing best anchors all tie the current plateau without improving it. Future work should wait for a genuinely new public output above the current family or focus on targeted tail/rank corrections with independent validation, because broad micro-blending around these anchors is saturated.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453

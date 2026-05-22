@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-22T02:34:07+00:00,1,af01_dataregressor_20260522_direct.csv,r14_loop01_af01_dataregressor_20260522,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:33:34.467000
+2026-05-22T02:34:42+00:00,2,af02_prob_max52_datareg22_995_005.csv,r14_loop02_af02_prob_max52_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:34:10.177000
+2026-05-22T02:35:18+00:00,3,af03_prob_max52_datareg22_99_01.csv,r14_loop03_af03_prob_max52_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:34:45.557000
+2026-05-22T02:35:56+00:00,4,af04_prob_s53_datareg22_995_005.csv,r14_loop04_af04_prob_s53_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:35:21.607000
+2026-05-22T02:36:35+00:00,5,af05_prob_tail53_datareg22_995_005.csv,r14_loop05_af05_prob_tail53_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:35:58.950000
+2026-05-22T02:37:12+00:00,6,af06_rank_max52_datareg22_995_005.csv,r14_loop06_af06_rank_max52_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:36:38.677000
+2026-05-22T02:37:51+00:00,7,af07_rank_max52_datareg22_99_01.csv,r14_loop07_af07_rank_max52_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:37:14.790000
+2026-05-22T02:38:27+00:00,8,af08_rank_s53_datareg22_995_005.csv,r14_loop08_af08_rank_s53_datareg22,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:37:55.263000
+2026-05-22T02:39:03+00:00,9,af09_prob_max52_s53_50_50.csv,r14_loop09_af09_prob_max52_s53,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:38:29.947000
+2026-05-22T02:39:38+00:00,10,af10_prob_max52_tail53_50_50.csv,r14_loop10_af10_prob_max52_tail53,SubmissionStatus.COMPLETE,0.95453,2026-05-22 02:39:06.340000

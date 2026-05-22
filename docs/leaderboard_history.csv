@@ -113,3 +113,13 @@ date,batch,submission,public_score,notes
 2026-05-21,round13,ae08_rank_max52_s53_99_01,0.95453,tiny rank remap tied current best
 2026-05-21,round13,ae09_srp52_46_005_direct,0.95452,older SRP variant below current best
 2026-05-21,round13,ae10_iso52_46_02_direct,0.95452,older isotonic variant below current best
+2026-05-22,round14,af01_dataregressor_20260522_direct,0.95453,May 22 DataRegressor direct output tied current best
+2026-05-22,round14,af02_prob_max52_datareg22_995_005,0.95453,tiny probability blend tied current best
+2026-05-22,round14,af03_prob_max52_datareg22_99_01,0.95453,one percent probability blend tied current best
+2026-05-22,round14,af04_prob_s53_datareg22_995_005,0.95453,tiny probability blend tied current best
+2026-05-22,round14,af05_prob_tail53_datareg22_995_005,0.95453,tiny probability blend tied current best
+2026-05-22,round14,af06_rank_max52_datareg22_995_005,0.95453,tiny rank remap tied current best
+2026-05-22,round14,af07_rank_max52_datareg22_99_01,0.95453,one percent rank remap tied current best
+2026-05-22,round14,af08_rank_s53_datareg22_995_005,0.95453,tiny rank remap tied current best
+2026-05-22,round14,af09_prob_max52_s53_50_50,0.95453,midpoint blend between best anchors tied current best
+2026-05-22,round14,af10_prob_max52_tail53_50_50,0.95453,midpoint blend between best anchors tied current best
