@@ -255,3 +255,24 @@ Fourteenth batch started with no same-day submissions in the Kaggle submission l
 Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct output, tiny DataRegressor perturbations, rank remaps, and midpoint blends between existing best anchors all tie the current plateau without improving it. Future work should wait for a genuinely new public output above the current family or focus on targeted tail/rank corrections with independent validation, because broad micro-blending around these anchors is saturated.
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
+## 2026-05-23
+
+Fifteenth batch started with no same-day submissions in the Kaggle submission list. New public Code runs exposed a stronger Anthony residual-network output and a matching late DataRegressor one-line output. The batch prioritized those direct files, then tested whether conservative blends with the prior `max52_46_02`, `s53`, `tail53`, Yekenot PyTabKit, or a high-correlation Mirza Optuna variant could lift the new anchor.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ag01_anthony_20260523_direct.csv` | `0.95454` |
+| 2 | `ag02_dataregressor_20260523_direct.csv` | `0.95454` |
+| 3 | `ag03_prob_max52_anth23_995_005.csv` | `0.95453` |
+| 4 | `ag04_prob_s53_anth23_995_005.csv` | `0.95453` |
+| 5 | `ag05_prob_tail53_anth23_995_005.csv` | `0.95453` |
+| 6 | `ag06_rank_max52_anth23_995_005.csv` | `0.95453` |
+| 7 | `ag07_rank_s53_anth23_995_005.csv` | `0.95453` |
+| 8 | `ag08_prob_anth23_yekenot_pytab_995_005.csv` | `0.95454` |
+| 9 | `ag09_rank_anth23_yekenot_pytab_995_005.csv` | `0.95454` |
+| 10 | `ag10_mirza_sub8_optuna_direct.csv` | `0.95452` |
+
+Conclusion: the project best improved from `0.95453` to `0.95454`. The Anthony and DataRegressor May 23 direct outputs are effectively the same new anchor and both scored `0.95454`. Mixing the new anchor back toward the prior `max52`, `s53`, or `tail53` files diluted the gain to `0.95453`, while tiny Yekenot PyTabKit support preserved `0.95454`. The Mirza Optuna variant was weaker at `0.95452`. Future work should treat the May 23 Anthony/DataRegressor output as the primary anchor and only test additions that preserve its distribution or provide genuinely new independent signal.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453

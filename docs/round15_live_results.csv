@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-23T05:45:37+00:00,1,ag01_anthony_20260523_direct.csv,r15_loop01_ag01_anthony_20260523,SubmissionStatus.COMPLETE,0.95454,2026-05-23 05:45:02.907000
+2026-05-23T05:46:16+00:00,2,ag02_dataregressor_20260523_direct.csv,r15_loop02_ag02_dataregressor_20260523,SubmissionStatus.COMPLETE,0.95454,2026-05-23 05:45:43.800000
+2026-05-23T05:46:56+00:00,3,ag03_prob_max52_anth23_995_005.csv,r15_loop03_ag03_prob_max52_anth23,SubmissionStatus.COMPLETE,0.95453,2026-05-23 05:46:22.900000
+2026-05-23T05:47:36+00:00,4,ag04_prob_s53_anth23_995_005.csv,r15_loop04_ag04_prob_s53_anth23,SubmissionStatus.COMPLETE,0.95453,2026-05-23 05:47:02.537000
+2026-05-23T05:48:23+00:00,5,ag05_prob_tail53_anth23_995_005.csv,r15_loop05_ag05_prob_tail53_anth23,SubmissionStatus.COMPLETE,0.95453,2026-05-23 05:47:47.347000
+2026-05-23T05:49:04+00:00,6,ag06_rank_max52_anth23_995_005.csv,r15_loop06_ag06_rank_max52_anth23,SubmissionStatus.COMPLETE,0.95453,2026-05-23 05:48:29.597000
+2026-05-23T05:49:45+00:00,7,ag07_rank_s53_anth23_995_005.csv,r15_loop07_ag07_rank_s53_anth23,SubmissionStatus.COMPLETE,0.95453,2026-05-23 05:49:11.593000
+2026-05-23T05:50:25+00:00,8,ag08_prob_anth23_yekenot_pytab_995_005.csv,r15_loop08_ag08_prob_anth23_yekenot,SubmissionStatus.COMPLETE,0.95454,2026-05-23 05:49:52.500000
+2026-05-23T05:51:11+00:00,9,ag09_rank_anth23_yekenot_pytab_995_005.csv,r15_loop09_ag09_rank_anth23_yekenot,SubmissionStatus.COMPLETE,0.95454,2026-05-23 05:50:37.483000
+2026-05-23T05:51:54+00:00,10,ag10_mirza_sub8_optuna_direct.csv,r15_loop10_ag10_mirza_sub8_optuna,SubmissionStatus.COMPLETE,0.95452,2026-05-23 05:51:21.130000

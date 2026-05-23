@@ -17,9 +17,9 @@ Large Kaggle data files, generated submission CSVs, model artifacts, OOF predict
 
 ## Current Result
 
-Best public leaderboard score recorded so far: `0.95453`.
+Best public leaderboard score recorded so far: `0.95454`.
 
-Best submission family: Raunak `s53`/`tail53`, DataRegressor, and closely related 0.95453 public-output variants.
+Best submission family: May 23 Anthony/DataRegressor public-output variants.
 
 Latest public Kaggle Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
@@ -37,6 +37,7 @@ Latest public Kaggle Code release: https://www.kaggle.com/code/beicicc/f1-pit-st
 - The May 20 `s52` public-output family lifted the project best to `0.95452`; the asymmetric `max52_46_02` variant improved it further to `0.95453`.
 - The May 21 `s53`/tail family repeatedly tied `0.95453`; older SRP/isotonic variants fell back to `0.95452`.
 - The May 22 DataRegressor refresh and conservative blends around `max52`, `s53`, and `tail53` all tied `0.95453`, confirming a tight plateau.
+- The May 23 Anthony/DataRegressor refresh lifted the project best to `0.95454`; blending it back toward older anchors diluted the gain.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Older direct Mikhail outputs scored poorly, while the refreshed May 17 output reached `0.95438`; it is useful as a secondary blend source rather than a primary anchor.
 

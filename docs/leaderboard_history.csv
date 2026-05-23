@@ -123,3 +123,13 @@ date,batch,submission,public_score,notes
 2026-05-22,round14,af08_rank_s53_datareg22_995_005,0.95453,tiny rank remap tied current best
 2026-05-22,round14,af09_prob_max52_s53_50_50,0.95453,midpoint blend between best anchors tied current best
 2026-05-22,round14,af10_prob_max52_tail53_50_50,0.95453,midpoint blend between best anchors tied current best
+2026-05-23,round15,ag01_anthony_20260523_direct,0.95454,new May 23 public-output best
+2026-05-23,round15,ag02_dataregressor_20260523_direct,0.95454,matched new best with late DataRegressor output
+2026-05-23,round15,ag03_prob_max52_anth23_995_005,0.95453,old max52 anchor diluted the new source
+2026-05-23,round15,ag04_prob_s53_anth23_995_005,0.95453,old s53 anchor diluted the new source
+2026-05-23,round15,ag05_prob_tail53_anth23_995_005,0.95453,old tail53 anchor diluted the new source
+2026-05-23,round15,ag06_rank_max52_anth23_995_005,0.95453,rank remap to old max52 distribution diluted the new source
+2026-05-23,round15,ag07_rank_s53_anth23_995_005,0.95453,rank remap to old s53 distribution diluted the new source
+2026-05-23,round15,ag08_prob_anth23_yekenot_pytab_995_005,0.95454,tiny Yekenot probability support preserved new best
+2026-05-23,round15,ag09_rank_anth23_yekenot_pytab_995_005,0.95454,tiny Yekenot rank support preserved new best
+2026-05-23,round15,ag10_mirza_sub8_optuna_direct,0.95452,high-correlation Mirza variant was weaker
