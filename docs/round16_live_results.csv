@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-24T06:42:39+00:00,1,ah01_s54_raw_direct.csv,r16_loop01_ah01_s54_raw_direct,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:42:06.473000
+2026-05-24T06:43:15+00:00,2,ah02_s54_asym_core_direct.csv,r16_loop02_ah02_s54_asym_core_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-24 06:42:42.677000
+2026-05-24T06:43:50+00:00,3,ah03_s54_ultra_narrow_direct.csv,r16_loop03_ah03_s54_ultra_narrow_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-24 06:43:18.553000
+2026-05-24T06:44:26+00:00,4,ah04_s54_micro_booster_direct.csv,r16_loop04_ah04_s54_micro_booster_direct,SubmissionStatus.COMPLETE,0.95453,2026-05-24 06:43:54.363000
+2026-05-24T06:45:03+00:00,5,ah05_rasulbek_best7_direct.csv,r16_loop05_ah05_rasulbek_best7_direct,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:44:30.647000
+2026-05-24T06:45:44+00:00,6,ah06_prob_dr23_s54raw_50_50.csv,r16_loop06_ah06_prob_dr23_s54raw,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:45:06.027000
+2026-05-24T06:46:22+00:00,7,ah07_prob_ag08_s54raw_995_005.csv,r16_loop07_ah07_prob_ag08_s54raw,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:45:47.393000
+2026-05-24T06:46:58+00:00,8,ah08_prob_dr23_rasulbek_50_50.csv,r16_loop08_ah08_prob_dr23_rasulbek,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:46:25.463000
+2026-05-24T06:47:33+00:00,9,ah09_rank_dr23_s54raw_50_50.csv,r16_loop09_ah09_rank_dr23_s54raw,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:47:00.717000
+2026-05-24T06:48:09+00:00,10,ah10_rank_ag09_s54raw_995_005.csv,r16_loop10_ah10_rank_ag09_s54raw,SubmissionStatus.COMPLETE,0.95454,2026-05-24 06:47:35.923000

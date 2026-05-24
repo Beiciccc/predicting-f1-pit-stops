@@ -133,3 +133,13 @@ date,batch,submission,public_score,notes
 2026-05-23,round15,ag08_prob_anth23_yekenot_pytab_995_005,0.95454,tiny Yekenot probability support preserved new best
 2026-05-23,round15,ag09_rank_anth23_yekenot_pytab_995_005,0.95454,tiny Yekenot rank support preserved new best
 2026-05-23,round15,ag10_mirza_sub8_optuna_direct,0.95452,high-correlation Mirza variant was weaker
+2026-05-24,round16,ah01_s54_raw_direct,0.95454,Raunak s54 raw tied current best
+2026-05-24,round16,ah02_s54_asym_core_direct,0.95453,Raunak asym core fell below current best
+2026-05-24,round16,ah03_s54_ultra_narrow_direct,0.95453,Raunak ultra narrow fell below current best
+2026-05-24,round16,ah04_s54_micro_booster_direct,0.95453,Raunak micro booster fell below current best
+2026-05-24,round16,ah05_rasulbek_best7_direct,0.95454,Rasulbek best-seven blend tied current best
+2026-05-24,round16,ah06_prob_dr23_s54raw_50_50,0.95454,midpoint between May 23 anchor and s54 raw tied current best
+2026-05-24,round16,ah07_prob_ag08_s54raw_995_005,0.95454,tiny s54 support preserved current best
+2026-05-24,round16,ah08_prob_dr23_rasulbek_50_50,0.95454,midpoint between near-identical best anchors tied current best
+2026-05-24,round16,ah09_rank_dr23_s54raw_50_50,0.95454,rank blend between May 23 anchor and s54 raw tied current best
+2026-05-24,round16,ah10_rank_ag09_s54raw_995_005,0.95454,tiny s54 rank support preserved current best

@@ -256,6 +256,27 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-24
+
+Sixteenth batch started with no same-day submissions in the Kaggle submission list. New public Code exposed Raunak's `s54` 0.95454 blender family and a near-identical Rasulbek best-seven blend. The batch tested the new direct `s54` files first, then conservative combinations with the May 23 DataRegressor/Anthony/Yekenot anchors.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ah01_s54_raw_direct.csv` | `0.95454` |
+| 2 | `ah02_s54_asym_core_direct.csv` | `0.95453` |
+| 3 | `ah03_s54_ultra_narrow_direct.csv` | `0.95453` |
+| 4 | `ah04_s54_micro_booster_direct.csv` | `0.95453` |
+| 5 | `ah05_rasulbek_best7_direct.csv` | `0.95454` |
+| 6 | `ah06_prob_dr23_s54raw_50_50.csv` | `0.95454` |
+| 7 | `ah07_prob_ag08_s54raw_995_005.csv` | `0.95454` |
+| 8 | `ah08_prob_dr23_rasulbek_50_50.csv` | `0.95454` |
+| 9 | `ah09_rank_dr23_s54raw_50_50.csv` | `0.95454` |
+| 10 | `ah10_rank_ag09_s54raw_995_005.csv` | `0.95454` |
+
+Conclusion: the project best remains `0.95454`. Raunak `s54_raw`, Rasulbek `best7`, and several conservative combinations with the May 23 anchors all tie the current best. Raunak's `asym_core`, `ultra_narrow`, and `micro_booster` variants dropped to `0.95453`, so the raw `s54` file is the strongest usable variant from that family. Future work should keep the May 23/24 `0.95454` family as the primary anchor and avoid targeted micro-variants unless a new public source demonstrates a clear improvement.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
 ## 2026-05-23
 
 Fifteenth batch started with no same-day submissions in the Kaggle submission list. New public Code runs exposed a stronger Anthony residual-network output and a matching late DataRegressor one-line output. The batch prioritized those direct files, then tested whether conservative blends with the prior `max52_46_02`, `s53`, `tail53`, Yekenot PyTabKit, or a high-correlation Mirza Optuna variant could lift the new anchor.
