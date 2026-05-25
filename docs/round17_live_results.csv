@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-25T07:09:01+00:00,1,ai01_ruihao_hb12_style_direct.csv,r17_loop01_ai01_ruihao_hb12_style,SubmissionStatus.COMPLETE,0.95452,2026-05-25 07:08:29.443000
+2026-05-25T07:09:36+00:00,2,ai02_ruihao_h_rank_direct.csv,r17_loop02_ai02_ruihao_h_rank,SubmissionStatus.COMPLETE,0.95451,2026-05-25 07:09:04.450000
+2026-05-25T07:10:12+00:00,3,ai03_ruihao_best2_direct.csv,r17_loop03_ai03_ruihao_best2,SubmissionStatus.COMPLETE,0.95452,2026-05-25 07:09:39.833000
+2026-05-25T07:11:30+00:00,4,ai04_prob_dr23_hb12_995_005.csv,r17_loop04_ai04_prob_dr23_hb12,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:10:16.167000
+2026-05-25T07:12:05+00:00,5,ai05_rank_dr23_hb12_995_005.csv,r17_loop05_ai05_rank_dr23_hb12,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:11:33.467000
+2026-05-25T07:12:41+00:00,6,ai06_prob_s54raw_hb12_995_005.csv,r17_loop06_ai06_prob_s54raw_hb12,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:12:08.597000
+2026-05-25T07:13:16+00:00,7,ai07_prob_rasulbek_hb12_995_005.csv,r17_loop07_ai07_prob_rasulbek_hb12,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:12:43.750000
+2026-05-25T07:14:35+00:00,8,ai08_prob_s54rank_hb12_995_005.csv,r17_loop08_ai08_prob_s54rank_hb12,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:13:19.287000
+2026-05-25T07:15:11+00:00,9,ai09_prob_dr23_hrank_999_001.csv,r17_loop09_ai09_prob_dr23_hrank,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:14:38.690000
+2026-05-25T07:15:47+00:00,10,ai10_prob_dr23_tyrelife_9995_0005.csv,r17_loop10_ai10_prob_dr23_tyrelife,SubmissionStatus.COMPLETE,0.95454,2026-05-25 07:15:14.927000

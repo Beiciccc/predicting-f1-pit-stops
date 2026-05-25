@@ -256,6 +256,27 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-25
+
+Seventeenth batch started with no same-day submissions in the Kaggle submission list. Fresh public Code exposed Ray/Ruihao blend variants and several new model outputs, while the public leaderboard showed stronger private-team scores without a reproducible public artifact. The batch first tested the closest Ray/Ruihao direct blend files, then switched to very small perturbations around the May 23/24 `0.95454` anchor family after the direct files underperformed.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ai01_ruihao_hb12_style_direct.csv` | `0.95452` |
+| 2 | `ai02_ruihao_h_rank_direct.csv` | `0.95451` |
+| 3 | `ai03_ruihao_best2_direct.csv` | `0.95452` |
+| 4 | `ai04_prob_dr23_hb12_995_005.csv` | `0.95454` |
+| 5 | `ai05_rank_dr23_hb12_995_005.csv` | `0.95454` |
+| 6 | `ai06_prob_s54raw_hb12_995_005.csv` | `0.95454` |
+| 7 | `ai07_prob_rasulbek_hb12_995_005.csv` | `0.95454` |
+| 8 | `ai08_prob_s54rank_hb12_995_005.csv` | `0.95454` |
+| 9 | `ai09_prob_dr23_hrank_999_001.csv` | `0.95454` |
+| 10 | `ai10_prob_dr23_tyrelife_9995_0005.csv` | `0.95454` |
+
+Conclusion: the project best remains `0.95454`. Ray/Ruihao direct blends are too aggressive despite very high correlation to the current anchor and should not be used directly. Small `0.5%` or smaller perturbations preserve the plateau but did not improve it. Future work should avoid direct transfer from these May 25 outputs and only test them as tiny support unless a new public artifact demonstrates a clear leaderboard lift.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
 ## 2026-05-24
 
 Sixteenth batch started with no same-day submissions in the Kaggle submission list. New public Code exposed Raunak's `s54` 0.95454 blender family and a near-identical Rasulbek best-seven blend. The batch tested the new direct `s54` files first, then conservative combinations with the May 23 DataRegressor/Anthony/Yekenot anchors.

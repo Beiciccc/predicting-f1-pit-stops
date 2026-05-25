@@ -143,3 +143,13 @@ date,batch,submission,public_score,notes
 2026-05-24,round16,ah08_prob_dr23_rasulbek_50_50,0.95454,midpoint between near-identical best anchors tied current best
 2026-05-24,round16,ah09_rank_dr23_s54raw_50_50,0.95454,rank blend between May 23 anchor and s54 raw tied current best
 2026-05-24,round16,ah10_rank_ag09_s54raw_995_005,0.95454,tiny s54 rank support preserved current best
+2026-05-25,round17,ai01_ruihao_hb12_style_direct,0.95452,Ray/Ruihao hb12 direct transfer fell below current best
+2026-05-25,round17,ai02_ruihao_h_rank_direct,0.95451,Ray/Ruihao h-rank direct transfer fell below current best
+2026-05-25,round17,ai03_ruihao_best2_direct,0.95452,Ray/Ruihao best2 direct transfer fell below current best
+2026-05-25,round17,ai04_prob_dr23_hb12_995_005,0.95454,tiny hb12 probability support preserved current best
+2026-05-25,round17,ai05_rank_dr23_hb12_995_005,0.95454,tiny hb12 rank support preserved current best
+2026-05-25,round17,ai06_prob_s54raw_hb12_995_005,0.95454,tiny hb12 support on s54 raw preserved current best
+2026-05-25,round17,ai07_prob_rasulbek_hb12_995_005,0.95454,tiny hb12 support on Rasulbek preserved current best
+2026-05-25,round17,ai08_prob_s54rank_hb12_995_005,0.95454,tiny hb12 support on s54 rank preserved current best
+2026-05-25,round17,ai09_prob_dr23_hrank_999_001,0.95454,tiny h-rank support preserved current best
+2026-05-25,round17,ai10_prob_dr23_tyrelife_9995_0005,0.95454,tiny tyrelife support preserved current best
