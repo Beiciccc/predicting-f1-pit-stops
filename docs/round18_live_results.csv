@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-26T08:07:03+00:00,1,aj01_rank_dr23_yek26_995_005.csv,r18_loop01_aj01_rank_dr23_yek26,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:06:31.093000
+2026-05-26T08:07:42+00:00,2,aj02_rank_dr23_yek26_99_01.csv,r18_loop02_aj02_rank_dr23_yek26,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:07:09.430000
+2026-05-26T08:08:18+00:00,3,aj03_rank_dr23_yek26_98_02.csv,r18_loop03_aj03_rank_dr23_yek26,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:07:45.767000
+2026-05-26T08:08:54+00:00,4,aj04_rank_dr23_ruihao_cpu_995_005.csv,r18_loop04_aj04_rank_dr23_ruihao_cpu,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:08:21.883000
+2026-05-26T08:09:30+00:00,5,aj05_rank_dr23_ruihao_cpu_99_01.csv,r18_loop05_aj05_rank_dr23_ruihao_cpu,SubmissionStatus.COMPLETE,0.95453,2026-05-26 08:08:57.353000
+2026-05-26T08:10:05+00:00,6,aj06_rank_dr23_yek26_cpu_990_005_005.csv,r18_loop06_aj06_rank_dr23_yek26_cpu,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:09:32.877000
+2026-05-26T08:10:40+00:00,7,aj07_prob_dr23_yek26_999_001.csv,r18_loop07_aj07_prob_dr23_yek26,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:10:08.117000
+2026-05-26T08:11:15+00:00,8,aj08_rank_ai04_yek26_995_005.csv,r18_loop08_aj08_rank_ai04_yek26,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:10:43.237000
+2026-05-26T08:11:50+00:00,9,aj09_rank_ah10_yek26_cpu_lz_990_005_003_002.csv,r18_loop09_aj09_rank_ah10_yek_cpu_lz,SubmissionStatus.COMPLETE,0.95453,2026-05-26 08:11:18.200000
+2026-05-26T08:12:26+00:00,10,aj10_rank_dr23_meta_full_999_001.csv,r18_loop10_aj10_rank_dr23_meta_full,SubmissionStatus.COMPLETE,0.95454,2026-05-26 08:11:53.360000

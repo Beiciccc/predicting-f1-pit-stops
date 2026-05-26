@@ -256,6 +256,27 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-26
+
+Eighteenth batch targeted the visible public leaderboard top 10, whose cutoff was about `0.95465` before submitting. The latest public leaderboard showed Mikhail at `0.95490`, but the downloadable Mikhail public Code output was still the old `aa06_mikhail_latest_direct` duplicate rather than the leaderboard artifact. Other fresh public outputs from Ray, Yekenot, Leonardo, LightGBM, and GPU ensemble notebooks were checked as direct sources and found to be too far from the current `0.95454` anchor family, so the batch tested them only as rank/probability perturbations.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `aj01_rank_dr23_yek26_995_005.csv` | `0.95454` |
+| 2 | `aj02_rank_dr23_yek26_99_01.csv` | `0.95454` |
+| 3 | `aj03_rank_dr23_yek26_98_02.csv` | `0.95454` |
+| 4 | `aj04_rank_dr23_ruihao_cpu_995_005.csv` | `0.95454` |
+| 5 | `aj05_rank_dr23_ruihao_cpu_99_01.csv` | `0.95453` |
+| 6 | `aj06_rank_dr23_yek26_cpu_990_005_005.csv` | `0.95454` |
+| 7 | `aj07_prob_dr23_yek26_999_001.csv` | `0.95454` |
+| 8 | `aj08_rank_ai04_yek26_995_005.csv` | `0.95454` |
+| 9 | `aj09_rank_ah10_yek26_cpu_lz_990_005_003_002.csv` | `0.95453` |
+| 10 | `aj10_rank_dr23_meta_full_999_001.csv` | `0.95454` |
+
+Conclusion: the project best remains `0.95454`, below the current top-10 target. Yekenot 5/26 rank support up to 2% preserved the plateau but did not improve it. Ruihao CPU at 1% and a mixed Yekenot/Ruihao/Leonardo rank perturbation fell to `0.95453`. The public `0.95465+` leaderboard artifacts were not reproducible from the available public outputs, so future top-10 attempts need a genuinely new public file or a private modeling gain rather than further tiny perturbations around the saturated `0.95454` family.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
 ## 2026-05-25
 
 Seventeenth batch started with no same-day submissions in the Kaggle submission list. Fresh public Code exposed Ray/Ruihao blend variants and several new model outputs, while the public leaderboard showed stronger private-team scores without a reproducible public artifact. The batch first tested the closest Ray/Ruihao direct blend files, then switched to very small perturbations around the May 23/24 `0.95454` anchor family after the direct files underperformed.

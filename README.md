@@ -40,6 +40,7 @@ Latest public Kaggle Code release: https://www.kaggle.com/code/beicicc/f1-pit-st
 - The May 23 Anthony/DataRegressor refresh lifted the project best to `0.95454`; blending it back toward older anchors diluted the gain.
 - The May 24 Raunak `s54_raw` and Rasulbek best-seven outputs tied `0.95454`; Raunak's targeted `s54` micro-variants fell back to `0.95453`.
 - The May 25 Ray/Ruihao direct blend outputs fell back to `0.95451-0.95452`; only tiny support weights preserved `0.95454`.
+- The May 26 public outputs did not expose the new `0.95465+` leaderboard artifacts; Yekenot/Ruihao rank perturbations mostly preserved `0.95454`, with larger mixed shifts falling to `0.95453`.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Older direct Mikhail outputs scored poorly, while the refreshed May 17 output reached `0.95438`; it is useful as a secondary blend source rather than a primary anchor.
 

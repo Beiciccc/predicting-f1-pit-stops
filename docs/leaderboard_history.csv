@@ -153,3 +153,13 @@ date,batch,submission,public_score,notes
 2026-05-25,round17,ai08_prob_s54rank_hb12_995_005,0.95454,tiny hb12 support on s54 rank preserved current best
 2026-05-25,round17,ai09_prob_dr23_hrank_999_001,0.95454,tiny h-rank support preserved current best
 2026-05-25,round17,ai10_prob_dr23_tyrelife_9995_0005,0.95454,tiny tyrelife support preserved current best
+2026-05-26,round18,aj01_rank_dr23_yek26_995_005,0.95454,tiny Yekenot 5/26 rank support preserved current best
+2026-05-26,round18,aj02_rank_dr23_yek26_99_01,0.95454,one percent Yekenot 5/26 rank support preserved current best
+2026-05-26,round18,aj03_rank_dr23_yek26_98_02,0.95454,two percent Yekenot 5/26 rank support preserved current best
+2026-05-26,round18,aj04_rank_dr23_ruihao_cpu_995_005,0.95454,tiny Ruihao CPU rank support preserved current best
+2026-05-26,round18,aj05_rank_dr23_ruihao_cpu_99_01,0.95453,one percent Ruihao CPU rank support diluted current best
+2026-05-26,round18,aj06_rank_dr23_yek26_cpu_990_005_005,0.95454,tiny Yekenot and Ruihao CPU rank support preserved current best
+2026-05-26,round18,aj07_prob_dr23_yek26_999_001,0.95454,tiny Yekenot probability support preserved current best
+2026-05-26,round18,aj08_rank_ai04_yek26_995_005,0.95454,tiny Yekenot rank support on ai04 preserved current best
+2026-05-26,round18,aj09_rank_ah10_yek26_cpu_lz_990_005_003_002,0.95453,mixed Yekenot/Ruihao/Leonardo rank support diluted current best
+2026-05-26,round18,aj10_rank_dr23_meta_full_999_001,0.95454,tiny Ray meta-stack rank support preserved current best
