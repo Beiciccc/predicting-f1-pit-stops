@@ -256,6 +256,27 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-27
+
+Nineteenth batch started with no same-day submissions in the Kaggle submission list. The public leaderboard had a top-10 cutoff near `0.95465`, but the latest downloadable public Code outputs did not expose a reproducible `0.95460+` artifact. Anthony's refreshed residual-network output was effectively identical to the May 23 DataRegressor anchor, and Mikhail's downloadable output matched an older weaker file. The batch therefore tested very small rank perturbations around the `0.95454` anchor using Jayhawk stacking, Djenk TabM/XGB, Parth CatBoost/XGBoost, Sarvesh blending, and the stale Mikhail ensemble output as secondary signals.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ak01_rank_dr23_jayhawk_stack_999_001.csv` | `0.95454` |
+| 2 | `ak02_rank_dr23_jayhawk_stack_998_002.csv` | `0.95454` |
+| 3 | `ak03_rank_dr23_jayhawk_stack_995_005.csv` | `0.95454` |
+| 4 | `ak04_rank_ai04_jayhawk_stack_999_001.csv` | `0.95454` |
+| 5 | `ak05_rank_dr23_djenk_999_001.csv` | `0.95454` |
+| 6 | `ak06_rank_dr23_djenk_995_005.csv` | `0.95454` |
+| 7 | `ak07_rank_dr23_parth_999_001.csv` | `0.95454` |
+| 8 | `ak08_rank_dr23_sarvesh_9995_0005.csv` | `0.95454` |
+| 9 | `ak09_rank_dr23_mikhail26_999_001.csv` | `0.95454` |
+| 10 | `ak10_rank_dr23_jayhawk_djenk_parth_997_0015_001_0005.csv` | `0.95454` |
+
+Conclusion: the project best remains `0.95454`. Tiny support from Jayhawk, Djenk, Parth, Sarvesh, and Mikhail preserved the plateau but did not move the public score upward. The latest public outputs are useful only as conservative secondary perturbations; reaching the current top-10 range likely requires a genuinely stronger private model or a newly published high-scoring output rather than more micro-blends around the May 23 anchor.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
 ## 2026-05-26
 
 Eighteenth batch targeted the visible public leaderboard top 10, whose cutoff was about `0.95465` before submitting. The latest public leaderboard showed Mikhail at `0.95490`, but the downloadable Mikhail public Code output was still the old `aa06_mikhail_latest_direct` duplicate rather than the leaderboard artifact. Other fresh public outputs from Ray, Yekenot, Leonardo, LightGBM, and GPU ensemble notebooks were checked as direct sources and found to be too far from the current `0.95454` anchor family, so the batch tested them only as rank/probability perturbations.

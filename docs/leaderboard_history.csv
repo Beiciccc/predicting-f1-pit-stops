@@ -163,3 +163,13 @@ date,batch,submission,public_score,notes
 2026-05-26,round18,aj08_rank_ai04_yek26_995_005,0.95454,tiny Yekenot rank support on ai04 preserved current best
 2026-05-26,round18,aj09_rank_ah10_yek26_cpu_lz_990_005_003_002,0.95453,mixed Yekenot/Ruihao/Leonardo rank support diluted current best
 2026-05-26,round18,aj10_rank_dr23_meta_full_999_001,0.95454,tiny Ray meta-stack rank support preserved current best
+2026-05-27,round19,ak01_rank_dr23_jayhawk_stack_999_001,0.95454,tiny Jayhawk stacking rank support preserved current best
+2026-05-27,round19,ak02_rank_dr23_jayhawk_stack_998_002,0.95454,slightly larger Jayhawk stacking rank support preserved current best
+2026-05-27,round19,ak03_rank_dr23_jayhawk_stack_995_005,0.95454,half-percent Jayhawk stacking rank support preserved current best
+2026-05-27,round19,ak04_rank_ai04_jayhawk_stack_999_001,0.95454,tiny Jayhawk stacking support on ai04 preserved current best
+2026-05-27,round19,ak05_rank_dr23_djenk_999_001,0.95454,tiny Djenk TabM/XGB rank support preserved current best
+2026-05-27,round19,ak06_rank_dr23_djenk_995_005,0.95454,half-percent Djenk TabM/XGB rank support preserved current best
+2026-05-27,round19,ak07_rank_dr23_parth_999_001,0.95454,tiny Parth CatBoost/XGBoost rank support preserved current best
+2026-05-27,round19,ak08_rank_dr23_sarvesh_9995_0005,0.95454,very small Sarvesh blending rank support preserved current best
+2026-05-27,round19,ak09_rank_dr23_mikhail26_999_001,0.95454,tiny stale Mikhail rank support preserved current best
+2026-05-27,round19,ak10_rank_dr23_jayhawk_djenk_parth_997_0015_001_0005,0.95454,mixed Jayhawk/Djenk/Parth rank support preserved current best
