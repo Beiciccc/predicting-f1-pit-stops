@@ -256,6 +256,27 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-28
+
+Twentieth batch started with no same-day submissions in the Kaggle submission list. The public leaderboard top-10 cutoff stayed near `0.95465`, while the visible leaders moved through private or non-reproducible artifacts. Fresh public Code outputs were downloaded from May 28 runs, including Anthony, Mikhail, Yeonseok, Alunji, Djenk, Evgen, Sarvesh, Parth, Koushik, Abbas, VH, and several baseline notebooks. Anthony was effectively the existing DataRegressor anchor, Mikhail remained an older stale artifact, and most fresh direct outputs were too weak or poorly calibrated for direct use. The batch therefore tested small rank-remap perturbations around the May 23/27 `0.95454` anchors.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `al01_rank_dr23_sarvesh28_999_001.csv` | `0.95454` |
+| 2 | `al02_rank_dr23_sarvesh28_998_002.csv` | `0.95454` |
+| 3 | `al03_rank_ai04_sarvesh28_999_001.csv` | `0.95454` |
+| 4 | `al04_rank_ak10_sarvesh28_999_001.csv` | `0.95454` |
+| 5 | `al05_rank_dr23_djenk_sarvesh_9985_001_0005.csv` | `0.95454` |
+| 6 | `al06_rank_dr23_evgen28_9995_0005.csv` | `0.95454` |
+| 7 | `al07_rank_dr23_alunji28_9995_0005.csv` | `0.95454` |
+| 8 | `al08_rank_dr23_parth28_999_001.csv` | `0.95454` |
+| 9 | `al09_rank_dr23_yeonseok28_9998_0002.csv` | `0.95454` |
+| 10 | `al10_rank_ag09_mikhail_sarvesh_9988_001_0002.csv` | `0.95454` |
+
+Conclusion: the project best remains `0.95454`. Sarvesh, Evgen, Alunji, Parth, Yeonseok, stale Mikhail, and a duplicate Djenk source all preserved the saturated anchor score only at tiny rank weights. The latest public outputs still do not reproduce the `0.95465+` leaderboard region, so future improvement likely requires a genuinely new high-scoring public artifact or a local modeling breakthrough rather than more tiny rank perturbations around `dr23`.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
 ## 2026-05-27
 
 Nineteenth batch started with no same-day submissions in the Kaggle submission list. The public leaderboard had a top-10 cutoff near `0.95465`, but the latest downloadable public Code outputs did not expose a reproducible `0.95460+` artifact. Anthony's refreshed residual-network output was effectively identical to the May 23 DataRegressor anchor, and Mikhail's downloadable output matched an older weaker file. The batch therefore tested very small rank perturbations around the `0.95454` anchor using Jayhawk stacking, Djenk TabM/XGB, Parth CatBoost/XGBoost, Sarvesh blending, and the stale Mikhail ensemble output as secondary signals.

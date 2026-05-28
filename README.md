@@ -42,6 +42,7 @@ Latest public Kaggle Code release: https://www.kaggle.com/code/beicicc/f1-pit-st
 - The May 25 Ray/Ruihao direct blend outputs fell back to `0.95451-0.95452`; only tiny support weights preserved `0.95454`.
 - The May 26 public outputs did not expose the new `0.95465+` leaderboard artifacts; Yekenot/Ruihao rank perturbations mostly preserved `0.95454`, with larger mixed shifts falling to `0.95453`.
 - The May 27 public outputs again lacked a reproducible top-10 artifact; Jayhawk, Djenk, Parth, Sarvesh, and Mikhail tiny rank perturbations all preserved `0.95454` without improving it.
+- The May 28 public outputs were also unable to reproduce the top-10 region; tiny Sarvesh, Evgen, Alunji, Parth, Yeonseok, and Mikhail rank perturbations preserved `0.95454` only.
 - Several high-scoring public notebook outputs transfer well only as small perturbation sources, not as direct anchors.
 - Older direct Mikhail outputs scored poorly, while the refreshed May 17 output reached `0.95438`; it is useful as a secondary blend source rather than a primary anchor.
 

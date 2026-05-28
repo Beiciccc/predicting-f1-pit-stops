@@ -173,3 +173,13 @@ date,batch,submission,public_score,notes
 2026-05-27,round19,ak08_rank_dr23_sarvesh_9995_0005,0.95454,very small Sarvesh blending rank support preserved current best
 2026-05-27,round19,ak09_rank_dr23_mikhail26_999_001,0.95454,tiny stale Mikhail rank support preserved current best
 2026-05-27,round19,ak10_rank_dr23_jayhawk_djenk_parth_997_0015_001_0005,0.95454,mixed Jayhawk/Djenk/Parth rank support preserved current best
+2026-05-28,round20,al01_rank_dr23_sarvesh28_999_001,0.95454,tiny Sarvesh May 28 rank support preserved current best
+2026-05-28,round20,al02_rank_dr23_sarvesh28_998_002,0.95454,slightly larger Sarvesh May 28 rank support preserved current best
+2026-05-28,round20,al03_rank_ai04_sarvesh28_999_001,0.95454,tiny Sarvesh May 28 support on ai04 preserved current best
+2026-05-28,round20,al04_rank_ak10_sarvesh28_999_001,0.95454,tiny Sarvesh May 28 support on ak10 preserved current best
+2026-05-28,round20,al05_rank_dr23_djenk_sarvesh_9985_001_0005,0.95454,mixed Djenk and Sarvesh support preserved current best
+2026-05-28,round20,al06_rank_dr23_evgen28_9995_0005,0.95454,very small Evgen May 28 rank support preserved current best
+2026-05-28,round20,al07_rank_dr23_alunji28_9995_0005,0.95454,very small Alunji May 28 rank support preserved current best
+2026-05-28,round20,al08_rank_dr23_parth28_999_001,0.95454,tiny Parth May 28 rank support preserved current best
+2026-05-28,round20,al09_rank_dr23_yeonseok28_9998_0002,0.95454,very small Yeonseok May 28 rank support preserved current best
+2026-05-28,round20,al10_rank_ag09_mikhail_sarvesh_9988_001_0002,0.95454,mixed stale Mikhail and Sarvesh support preserved current best
