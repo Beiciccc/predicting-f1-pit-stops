@@ -256,6 +256,48 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-30
+
+Twenty-second batch started with no 2026-05-30 submissions in the Kaggle submission list. The visible leaderboard target remained `0.95460+`, but the latest public Code outputs did not expose a direct high-scoring artifact. The batch tested fresh May 30 outputs from Varad, Ray/Ruihao, Sarvesh, and related public notebooks. Varad and Ruihao showed strong local or rank signals but did not transfer directly, so the later submissions moved back toward conservative rank-remap support around the May 23 DataRegressor anchor.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `an01_varad30_direct.csv` | `0.95247` |
+| 2 | `an02_ruihao_gpu_full30_direct.csv` | `0.94895` |
+| 3 | `an03_rank_dr23_varad30_95_05.csv` | `0.95453` |
+| 4 | `an04_rank_dr23_varad30_90_10.csv` | `0.95452` |
+| 5 | `an05_rank_dr23_varad30_80_20.csv` | `0.95446` |
+| 6 | `an06_sarvesh_lgbm30_direct.csv` | `0.95444` |
+| 7 | `an07_rank_dr23_sarvesh_lgbm30_80_20.csv` | `0.95453` |
+| 8 | `an06_sarvesh_triple30_direct.csv` | `0.95396` |
+| 9 | `an07_prob_dr23_sarvesh_triple30_80_20.csv` | `0.95451` |
+| 10 | `an09_rank_dr23_sarvesh_triple30_98_02.csv` | `0.95454` |
+
+Conclusion: the project best remains `0.95454`, short of the `0.95460` target. Direct transfer from Varad and Ruihao was too weak despite strong notebook CV/rank signals, and larger Varad rank movement fell from `0.95453` to `0.95446`. Sarvesh LGBM/triple outputs were useful only after rank-remapping back to the `dr23` distribution; the best May 30 candidate was a small `2%` Sarvesh triple rank perturbation, which tied the existing plateau at `0.95454`.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
+## 2026-05-29
+
+Twenty-first batch started with no 2026-05-29 submissions in the Kaggle submission list. The public leaderboard showed a reproducible-looking `0.95460` target line, but the latest downloadable public outputs were still mostly below the saturated May 23 anchor. Sarvesh EDA, Shamanth, Evgen TabM, Parth, Sakuno, and other May 29 outputs were checked. The batch first tested a bolder Sarvesh EDA transfer, then reduced back to smaller rank-remap probes after direct and larger weak-source moves underperformed.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `am01_sarvesh29_direct.csv` | `0.95382` |
+| 2 | `am02_rank_dr23_sarvesh29_98_02.csv` | `0.95454` |
+| 3 | `am03_rank_dr23_sarvesh29_95_05.csv` | `0.95454` |
+| 4 | `am04_rank_dr23_shamanth28_9995_0005.csv` | `0.95454` |
+| 5 | `am05_rank_dr23_shamanth28_99_01.csv` | `0.95453` |
+| 6 | `am06_rank_dr23_evridge29_98_02.csv` | `0.95454` |
+| 7 | `am07_rank_dr23_evtabm29_975_025.csv` | `0.95453` |
+| 8 | `am08_rank_dr23_sarvesh29_99_01.csv` | `0.95454` |
+| 9 | `am09_rank_ai04_sarvesh29_99_01.csv` | `0.95454` |
+| 10 | `am10_rank_dr23_sarvesh29_parth29_985_010_005.csv` | `0.95453` |
+
+Conclusion: the project best remained `0.95454`. Sarvesh EDA was too weak as a direct probability transfer, and Shamanth/Evgen directions dropped once weights became larger. Small Sarvesh rank perturbations around `dr23` or `ai04` preserved the plateau but did not expose a path to `0.95460`.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
+
 ## 2026-05-28
 
 Twentieth batch started with no same-day submissions in the Kaggle submission list. The public leaderboard top-10 cutoff stayed near `0.95465`, while the visible leaders moved through private or non-reproducible artifacts. Fresh public Code outputs were downloaded from May 28 runs, including Anthony, Mikhail, Yeonseok, Alunji, Djenk, Evgen, Sarvesh, Parth, Koushik, Abbas, VH, and several baseline notebooks. Anthony was effectively the existing DataRegressor anchor, Mikhail remained an older stale artifact, and most fresh direct outputs were too weak or poorly calibrated for direct use. The batch therefore tested small rank-remap perturbations around the May 23/27 `0.95454` anchors.

@@ -183,3 +183,23 @@ date,batch,submission,public_score,notes
 2026-05-28,round20,al08_rank_dr23_parth28_999_001,0.95454,tiny Parth May 28 rank support preserved current best
 2026-05-28,round20,al09_rank_dr23_yeonseok28_9998_0002,0.95454,very small Yeonseok May 28 rank support preserved current best
 2026-05-28,round20,al10_rank_ag09_mikhail_sarvesh_9988_001_0002,0.95454,mixed stale Mikhail and Sarvesh support preserved current best
+2026-05-29,round21,am01_sarvesh29_direct,0.95382,Sarvesh May 29 direct transfer was below current best
+2026-05-29,round21,am02_rank_dr23_sarvesh29_98_02,0.95454,two percent Sarvesh May 29 rank support preserved current best
+2026-05-29,round21,am03_rank_dr23_sarvesh29_95_05,0.95454,five percent Sarvesh May 29 rank support preserved current best
+2026-05-29,round21,am04_rank_dr23_shamanth28_9995_0005,0.95454,very small Shamanth rank support preserved current best
+2026-05-29,round21,am05_rank_dr23_shamanth28_99_01,0.95453,one percent Shamanth rank support diluted current best
+2026-05-29,round21,am06_rank_dr23_evridge29_98_02,0.95454,two percent Evgen ridge rank support preserved current best
+2026-05-29,round21,am07_rank_dr23_evtabm29_975_025,0.95453,larger Evgen TabM rank support diluted current best
+2026-05-29,round21,am08_rank_dr23_sarvesh29_99_01,0.95454,one percent Sarvesh May 29 rank support preserved current best
+2026-05-29,round21,am09_rank_ai04_sarvesh29_99_01,0.95454,one percent Sarvesh support on ai04 preserved current best
+2026-05-29,round21,am10_rank_dr23_sarvesh29_parth29_985_010_005,0.95453,mixed Sarvesh and Parth support diluted current best
+2026-05-30,round22,an01_varad30_direct,0.95247,Varad high-CV direct transfer was weak on public leaderboard
+2026-05-30,round22,an02_ruihao_gpu_full30_direct,0.94895,Ruihao GPU full direct transfer was weak on public leaderboard
+2026-05-30,round22,an03_rank_dr23_varad30_95_05,0.95453,five percent Varad rank support diluted current best
+2026-05-30,round22,an04_rank_dr23_varad30_90_10,0.95452,ten percent Varad rank support diluted current best
+2026-05-30,round22,an05_rank_dr23_varad30_80_20,0.95446,twenty percent Varad rank support diluted current best
+2026-05-30,round22,an06_sarvesh_lgbm30_direct,0.95444,Sarvesh LGBM direct transfer was below current best
+2026-05-30,round22,an07_rank_dr23_sarvesh_lgbm30_80_20,0.95453,Sarvesh LGBM rank support diluted current best
+2026-05-30,round22,an06_sarvesh_triple30_direct,0.95396,Sarvesh triple direct transfer was below current best
+2026-05-30,round22,an07_prob_dr23_sarvesh_triple30_80_20,0.95451,Sarvesh triple probability support diluted current best
+2026-05-30,round22,an09_rank_dr23_sarvesh_triple30_98_02,0.95454,two percent Sarvesh triple rank support preserved current best

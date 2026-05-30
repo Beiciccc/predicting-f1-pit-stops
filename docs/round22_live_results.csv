@@ -1,0 +1,11 @@
+recorded_at_utc,loop,file,description,status,public_score,kaggle_date
+2026-05-30T00:18:40+00:00,1,an01_varad30_direct.csv,r22_loop01_an01_varad30_direct,SubmissionStatus.COMPLETE,0.95247,2026-05-30 00:18:07.023000
+2026-05-30T00:19:19+00:00,2,an02_ruihao_gpu_full30_direct.csv,r22_loop02_an02_ruihao_gpu_full30_direct,SubmissionStatus.COMPLETE,0.94895,2026-05-30 00:18:46.343000
+2026-05-30T00:19:58+00:00,3,an03_rank_dr23_varad30_95_05.csv,r22_loop03_an03_rank_dr23_varad30,SubmissionStatus.COMPLETE,0.95453,2026-05-30 00:19:25.803000
+2026-05-30T00:20:38+00:00,4,an04_rank_dr23_varad30_90_10.csv,r22_loop04_an04_rank_dr23_varad30,SubmissionStatus.COMPLETE,0.95452,2026-05-30 00:20:05.667000
+2026-05-30T00:23:28+00:00,5,an05_rank_dr23_varad30_80_20.csv,r22_loop05_an05_rank_dr23_varad30,SubmissionStatus.COMPLETE,0.95446,2026-05-30 00:20:44.563000
+2026-05-30T00:24:09+00:00,6,an06_sarvesh_lgbm30_direct.csv,r22_loop06_an06_sarvesh_lgbm30_direct,SubmissionStatus.COMPLETE,0.95444,2026-05-30 00:23:35.957000
+2026-05-30T00:24:46+00:00,7,an07_rank_dr23_sarvesh_lgbm30_80_20.csv,r22_loop07_an07_rank_dr23_sarvesh_lgbm30,SubmissionStatus.COMPLETE,0.95453,2026-05-30 00:24:13.743000
+2026-05-30T00:25:00+00:00,8,an06_sarvesh_triple30_direct.csv,r22_loop06_an06_sarvesh_triple30_direct,SubmissionStatus.COMPLETE,0.95396,2026-05-30 00:24:29.500000
+2026-05-30T00:27:00+00:00,9,an07_prob_dr23_sarvesh_triple30_80_20.csv,r22_loop07_an07_prob_dr23_sarvesh_triple30,SubmissionStatus.COMPLETE,0.95451,2026-05-30 00:25:05.557000
+2026-05-30T00:26:05+00:00,10,an09_rank_dr23_sarvesh_triple30_98_02.csv,r22_loop09_an09_rank_dr23_sarvesh_triple30,SubmissionStatus.COMPLETE,0.95454,2026-05-30 00:25:33.340000
