@@ -256,6 +256,27 @@ Conclusion: the project best remains `0.95453`. The May 22 DataRegressor direct 
 
 Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-dataregressor-20260522-0-95453
 
+## 2026-05-31
+
+Final-day batch started with no 2026-05-31 submissions in the Kaggle submission list. The public leaderboard had moved beyond the prior target, with the visible top region around `0.9549`, but downloadable high-score artifacts were not reproducible: the public `beicicc/f1-pit-stops-dataregressor-0-95490` output was an exact duplicate of the May 30 `an09` file that scored `0.95454`. The batch therefore used the remaining quota on fresh May 31 public-output perturbations and one lightweight group target-encoding probe, all as conservative rank-remaps around the May 23 DataRegressor anchor.
+
+| Round | File | Public score |
+|---:|---|---:|
+| 1 | `ao01_rank_dr23_kk31_999_001.csv` | `0.95454` |
+| 2 | `ao02_rank_dr23_kk31_995_005.csv` | `0.95453` |
+| 3 | `ao03_rank_dr23_emanuell31_999_001.csv` | `0.95454` |
+| 4 | `ao04_rank_dr23_evgen30_999_001.csv` | `0.95454` |
+| 5 | `ao05_rank_dr23_masaya_l2_999_001.csv` | `0.95454` |
+| 6 | `ao06_rank_dr23_parth30_999_001.csv` | `0.95454` |
+| 7 | `ao08_rank_dr23_consensus31_996_002_001_001.csv` | `0.95453` |
+| 8 | `ao09_rank_dr23_teyrsp_999_001.csv` | `0.95454` |
+| 9 | `ao10_rank_dr23_jeffrank30_999_001.csv` | `0.95454` |
+| 10 | `ao12_rank_dr23_kk_emanuell_masaya_997_001_001_001.csv` | `0.95454` |
+
+Conclusion: the final-day attempts did not break the `0.95454` ceiling. Tiny single-source rank support from Kkhandekar, Emanuell, Evgen, Masaya, Parth, Jeff, and the group target-encoding probe preserved the current best, while larger or combined movements fell to `0.95453`. The main practical rule remains unchanged: use the May 23/24 anchor family as the primary submission family, and avoid bolder public-output blends unless a newly accessible source demonstrates a verified public lift.
+
+Public Code release: https://www.kaggle.com/code/beicicc/f1-pit-stops-final-day-stable-rank-blend-0-95454
+
 ## 2026-05-30
 
 Twenty-second batch started with no 2026-05-30 submissions in the Kaggle submission list. The visible leaderboard target remained `0.95460+`, but the latest public Code outputs did not expose a direct high-scoring artifact. The batch tested fresh May 30 outputs from Varad, Ray/Ruihao, Sarvesh, and related public notebooks. Varad and Ruihao showed strong local or rank signals but did not transfer directly, so the later submissions moved back toward conservative rank-remap support around the May 23 DataRegressor anchor.

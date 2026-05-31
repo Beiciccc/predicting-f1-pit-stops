@@ -203,3 +203,13 @@ date,batch,submission,public_score,notes
 2026-05-30,round22,an06_sarvesh_triple30_direct,0.95396,Sarvesh triple direct transfer was below current best
 2026-05-30,round22,an07_prob_dr23_sarvesh_triple30_80_20,0.95451,Sarvesh triple probability support diluted current best
 2026-05-30,round22,an09_rank_dr23_sarvesh_triple30_98_02,0.95454,two percent Sarvesh triple rank support preserved current best
+2026-05-31,round23,ao01_rank_dr23_kk31_999_001,0.95454,tiny Kkhandekar May 31 rank support preserved current best
+2026-05-31,round23,ao02_rank_dr23_kk31_995_005,0.95453,larger Kkhandekar May 31 rank support diluted current best
+2026-05-31,round23,ao03_rank_dr23_emanuell31_999_001,0.95454,tiny Emanuell CatBoost support preserved current best
+2026-05-31,round23,ao04_rank_dr23_evgen30_999_001,0.95454,tiny Evgen TabM support preserved current best
+2026-05-31,round23,ao05_rank_dr23_masaya_l2_999_001,0.95454,tiny Masaya stack support preserved current best
+2026-05-31,round23,ao06_rank_dr23_parth30_999_001,0.95454,tiny Parth May 30 support preserved current best
+2026-05-31,round23,ao08_rank_dr23_consensus31_996_002_001_001,0.95453,multi-source May 31 consensus diluted current best
+2026-05-31,round23,ao09_rank_dr23_teyrsp_999_001,0.95454,tiny group target-encoding support preserved current best
+2026-05-31,round23,ao10_rank_dr23_jeffrank30_999_001,0.95454,tiny Jeff rank support preserved current best
+2026-05-31,round23,ao12_rank_dr23_kk_emanuell_masaya_997_001_001_001,0.95454,tiny Kkhandekar/Emanuell/Masaya support preserved current best
